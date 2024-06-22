@@ -1,0 +1,2996 @@
+Serial_Number,Furnished_Status,Facing,Car_Parking,Type_of_Ownership,Booking_Amount,Buy_Total_Price
+1,,,Car,Self Owned,,5300000.0
+2,,North,Bike and Car,Self Owned,,19000000.0
+3,,,Bike and Car,Self Owned,,10500000.0
+4,,,Car,Self Owned,,53000000.0
+5,,,Bike and Car,Self Owned,,37500000.0
+6,,,Bike and Car,Self Owned,,9300000.0
+7,,,Bike and Car,Self Owned,,25000000.0
+8,,,Bike and Car,Self Owned,,15000000.0
+9,,,Bike and Car,Self Owned,,18700000.0
+10,,,Car,Self Owned,,16000000.0
+11,Semi,southeast,Bike and Car,Self Owned,,9000000.0
+12,,,Bike and Car,Self Owned,,21500000.0
+13,,,Car,Self Owned,,8900000.0
+14,Semi,North,Bike and Car,Self Owned,,6000000.0
+15,Semi,North,Car,Self Owned,,
+16,Semi,East,Bike and Car,Self Owned,,7500000.0
+17,Fully Furnished,West,Bike and Car,Self Owned,,22000000.0
+18,,,Car,Self Owned,,18000000.0
+19,,,Bike and Car,Self Owned,,24500000.0
+20,Semi,South,Bike,Self Owned,,22400000.0
+21,,East,Bike and Car,Self Owned,,13700000.0
+22,,East,Bike and Car,Self Owned,,13800000.0
+23,,East,Bike and Car,Self Owned,,11000000.0
+24,,,Bike and Car,Self Owned,,8500000.0
+25,Fully Furnished,South,Car,Self Owned,,7560000.0
+26,,,Car,Self Owned,,5300000.0
+27,,North,Bike and Car,Self Owned,,19000000.0
+28,,,Bike and Car,Self Owned,,10500000.0
+29,,,Car,Self Owned,,53000000.0
+30,,,Bike and Car,Self Owned,,37500000.0
+31,,,Bike and Car,Self Owned,,9300000.0
+32,,,Bike and Car,Self Owned,,25000000.0
+33,,,Bike and Car,Self Owned,,15000000.0
+34,,,Bike and Car,Self Owned,,18700000.0
+35,,,Car,Self Owned,,16000000.0
+36,Semi,southeast,Bike and Car,Self Owned,,9000000.0
+37,,,Bike and Car,Self Owned,,21500000.0
+38,,,Car,Self Owned,,8900000.0
+39,Semi,North,Bike and Car,Self Owned,,6000000.0
+40,Semi,North,Car,Self Owned,,
+41,Semi,East,Bike and Car,Self Owned,,7500000.0
+42,Fully Furnished,West,Bike and Car,Self Owned,,22000000.0
+43,,,Car,Self Owned,,18000000.0
+44,,,Bike and Car,Self Owned,,24500000.0
+45,Semi,South,Bike,Self Owned,,22400000.0
+46,,East,Bike and Car,Self Owned,,13700000.0
+47,,East,Bike and Car,Self Owned,,13800000.0
+48,,East,Bike and Car,Self Owned,,11000000.0
+49,,,Bike and Car,Self Owned,,8500000.0
+50,Fully Furnished,South,Car,Self Owned,,7560000.0
+51,,,Car,Self Owned,,5300000.0
+52,,North,Bike and Car,Self Owned,,19000000.0
+53,,,Bike and Car,Self Owned,,10500000.0
+54,,,Car,Self Owned,,53000000.0
+55,,,Bike and Car,Self Owned,,37500000.0
+56,,,Bike and Car,Self Owned,,9300000.0
+57,,,Bike and Car,Self Owned,,25000000.0
+58,,,Bike and Car,Self Owned,,15000000.0
+59,,,Bike and Car,Self Owned,,18700000.0
+60,,,Car,Self Owned,,16000000.0
+61,Semi,southeast,Bike and Car,Self Owned,,9000000.0
+62,,,Bike and Car,Self Owned,,21500000.0
+63,,,Car,Self Owned,,8900000.0
+64,Semi,North,Bike and Car,Self Owned,,6000000.0
+65,Semi,North,Car,Self Owned,,
+66,Semi,East,Bike and Car,Self Owned,,7500000.0
+67,Fully Furnished,West,Bike and Car,Self Owned,,22000000.0
+68,,,Car,Self Owned,,18000000.0
+69,,,Bike and Car,Self Owned,,24500000.0
+70,Semi,South,Bike,Self Owned,,22400000.0
+71,,East,Bike and Car,Self Owned,,13700000.0
+72,,East,Bike and Car,Self Owned,,13800000.0
+73,,East,Bike and Car,Self Owned,,11000000.0
+74,,,Bike and Car,Self Owned,,8500000.0
+75,Fully Furnished,South,Car,Self Owned,,7560000.0
+76,,,Car,Self Owned,,5300000.0
+77,,North,Bike and Car,Self Owned,,19000000.0
+78,,,Bike and Car,Self Owned,,10500000.0
+79,,,Car,Self Owned,,53000000.0
+80,,,Bike and Car,Self Owned,,37500000.0
+81,,,Bike and Car,Self Owned,,9300000.0
+82,,,Bike and Car,Self Owned,,25000000.0
+83,,,Bike and Car,Self Owned,,15000000.0
+84,,,Bike and Car,Self Owned,,18700000.0
+85,,,Car,Self Owned,,16000000.0
+86,Semi,southeast,Bike and Car,Self Owned,,9000000.0
+87,,,Bike and Car,Self Owned,,21500000.0
+88,,,Car,Self Owned,,8900000.0
+89,Semi,North,Bike and Car,Self Owned,,6000000.0
+90,Semi,North,Car,Self Owned,,
+91,Semi,East,Bike and Car,Self Owned,,7500000.0
+92,Fully Furnished,West,Bike and Car,Self Owned,,22000000.0
+93,,,Car,Self Owned,,18000000.0
+94,,,Bike and Car,Self Owned,,24500000.0
+95,Semi,South,Bike,Self Owned,,22400000.0
+96,,East,Bike and Car,Self Owned,,13700000.0
+97,,East,Bike and Car,Self Owned,,13800000.0
+98,,East,Bike and Car,Self Owned,,11000000.0
+99,,,Bike and Car,Self Owned,,8500000.0
+100,Fully Furnished,South,Car,Self Owned,,7560000.0
+101,,,Car,Self Owned,,5300000.0
+102,,North,Bike and Car,Self Owned,,19000000.0
+103,,,Bike and Car,Self Owned,,10500000.0
+104,,,Car,Self Owned,,53000000.0
+105,,,Bike and Car,Self Owned,,37500000.0
+106,,,Bike and Car,Self Owned,,9300000.0
+107,,,Bike and Car,Self Owned,,25000000.0
+108,,,Bike and Car,Self Owned,,15000000.0
+109,,,Bike and Car,Self Owned,,18700000.0
+110,,,Car,Self Owned,,16000000.0
+111,Semi,southeast,Bike and Car,Self Owned,,9000000.0
+112,,,Bike and Car,Self Owned,,21500000.0
+113,,,Car,Self Owned,,8900000.0
+114,Semi,North,Bike and Car,Self Owned,,6000000.0
+115,Semi,North,Car,Self Owned,,
+116,Semi,East,Bike and Car,Self Owned,,7500000.0
+117,Fully Furnished,West,Bike and Car,Self Owned,,22000000.0
+118,,,Car,Self Owned,,18000000.0
+119,,,Bike and Car,Self Owned,,24500000.0
+120,Semi,South,Bike,Self Owned,,22400000.0
+121,,East,Bike and Car,Self Owned,,13700000.0
+122,,East,Bike and Car,Self Owned,,13800000.0
+123,,East,Bike and Car,Self Owned,,11000000.0
+124,,,Bike and Car,Self Owned,,8500000.0
+125,Fully Furnished,South,Car,Self Owned,,7560000.0
+126,,,Car,Self Owned,,5300000.0
+127,,North,Bike and Car,Self Owned,,19000000.0
+128,,,Bike and Car,Self Owned,,10500000.0
+129,,,Car,Self Owned,,53000000.0
+130,,,Bike and Car,Self Owned,,37500000.0
+131,,,Bike and Car,Self Owned,,9300000.0
+132,,,Bike and Car,Self Owned,,25000000.0
+133,,,Bike and Car,Self Owned,,15000000.0
+134,,,Bike and Car,Self Owned,,18700000.0
+135,,,Car,Self Owned,,16000000.0
+136,Semi,southeast,Bike and Car,Self Owned,,9000000.0
+137,,,Bike and Car,Self Owned,,21500000.0
+138,,,Car,Self Owned,,8900000.0
+139,Semi,North,Bike and Car,Self Owned,,6000000.0
+140,Semi,North,Car,Self Owned,,
+141,Semi,East,Bike and Car,Self Owned,,7500000.0
+142,Fully Furnished,West,Bike and Car,Self Owned,,22000000.0
+143,,,Car,Self Owned,,18000000.0
+144,,,Bike and Car,Self Owned,,24500000.0
+145,Semi,South,Bike,Self Owned,,22400000.0
+146,,East,Bike and Car,Self Owned,,13700000.0
+147,,East,Bike and Car,Self Owned,,13800000.0
+148,,East,Bike and Car,Self Owned,,11000000.0
+149,,,Bike and Car,Self Owned,,8500000.0
+150,Fully Furnished,South,Car,Self Owned,,7560000.0
+151,,,Car,Self Owned,,5300000.0
+152,,North,Bike and Car,Self Owned,,19000000.0
+153,,,Bike and Car,Self Owned,,10500000.0
+154,,,Car,Self Owned,,53000000.0
+155,,,Bike and Car,Self Owned,,37500000.0
+156,,,Bike and Car,Self Owned,,9300000.0
+157,,,Bike and Car,Self Owned,,25000000.0
+158,,,Bike and Car,Self Owned,,15000000.0
+159,,,Bike and Car,Self Owned,,18700000.0
+160,,,Car,Self Owned,,16000000.0
+161,Semi,southeast,Bike and Car,Self Owned,,9000000.0
+162,,,Bike and Car,Self Owned,,21500000.0
+163,,,Car,Self Owned,,8900000.0
+164,Semi,North,Bike and Car,Self Owned,,6000000.0
+165,Semi,North,Car,Self Owned,,
+166,Semi,East,Bike and Car,Self Owned,,7500000.0
+167,Fully Furnished,West,Bike and Car,Self Owned,,22000000.0
+168,,,Car,Self Owned,,18000000.0
+169,,,Bike and Car,Self Owned,,24500000.0
+170,Semi,South,Bike,Self Owned,,22400000.0
+171,,East,Bike and Car,Self Owned,,13700000.0
+172,,East,Bike and Car,Self Owned,,13800000.0
+173,,East,Bike and Car,Self Owned,,11000000.0
+174,,,Bike and Car,Self Owned,,8500000.0
+175,Fully Furnished,South,Car,Self Owned,,7560000.0
+176,,,Car,Self Owned,,5300000.0
+177,,North,Bike and Car,Self Owned,,19000000.0
+178,,,Bike and Car,Self Owned,,10500000.0
+179,,,Car,Self Owned,,53000000.0
+180,,,Bike and Car,Self Owned,,37500000.0
+181,,,Bike and Car,Self Owned,,9300000.0
+182,,,Bike and Car,Self Owned,,25000000.0
+183,,,Bike and Car,Self Owned,,15000000.0
+184,,,Bike and Car,Self Owned,,18700000.0
+185,,,Car,Self Owned,,16000000.0
+186,Semi,southeast,Bike and Car,Self Owned,,9000000.0
+187,,,Bike and Car,Self Owned,,21500000.0
+188,,,Car,Self Owned,,8900000.0
+189,Semi,North,Bike and Car,Self Owned,,6000000.0
+190,Semi,North,Car,Self Owned,,
+191,Semi,East,Bike and Car,Self Owned,,7500000.0
+192,Fully Furnished,West,Bike and Car,Self Owned,,22000000.0
+193,,,Car,Self Owned,,18000000.0
+194,,,Bike and Car,Self Owned,,24500000.0
+195,Semi,South,Bike,Self Owned,,22400000.0
+196,,East,Bike and Car,Self Owned,,13700000.0
+197,,East,Bike and Car,Self Owned,,13800000.0
+198,,East,Bike and Car,Self Owned,,11000000.0
+199,,,Bike and Car,Self Owned,,8500000.0
+200,Fully Furnished,South,Car,Self Owned,,7560000.0
+201,,,Car,Self Owned,,5300000.0
+202,,North,Bike and Car,Self Owned,,19000000.0
+203,,,Bike and Car,Self Owned,,10500000.0
+204,,,Car,Self Owned,,53000000.0
+205,,,Bike and Car,Self Owned,,37500000.0
+206,,,Bike and Car,Self Owned,,9300000.0
+207,,,Bike and Car,Self Owned,,25000000.0
+208,,,Bike and Car,Self Owned,,15000000.0
+209,,,Bike and Car,Self Owned,,18700000.0
+210,,,Car,Self Owned,,16000000.0
+211,Semi,southeast,Bike and Car,Self Owned,,9000000.0
+212,,,Bike and Car,Self Owned,,21500000.0
+213,,,Car,Self Owned,,8900000.0
+214,Semi,North,Bike and Car,Self Owned,,6000000.0
+215,Semi,North,Car,Self Owned,,
+216,Semi,East,Bike and Car,Self Owned,,7500000.0
+217,Fully Furnished,West,Bike and Car,Self Owned,,22000000.0
+218,,,Car,Self Owned,,18000000.0
+219,,,Bike and Car,Self Owned,,24500000.0
+220,Semi,South,Bike,Self Owned,,22400000.0
+221,,East,Bike and Car,Self Owned,,13700000.0
+222,,East,Bike and Car,Self Owned,,13800000.0
+223,,East,Bike and Car,Self Owned,,11000000.0
+224,,,Bike and Car,Self Owned,,8500000.0
+225,Fully Furnished,South,Car,Self Owned,,7560000.0
+226,,,Car,Self Owned,,5300000.0
+227,,North,Bike and Car,Self Owned,,19000000.0
+228,,,Bike and Car,Self Owned,,10500000.0
+229,,,Car,Self Owned,,53000000.0
+230,,,Bike and Car,Self Owned,,37500000.0
+231,,,Bike and Car,Self Owned,,9300000.0
+232,,,Bike and Car,Self Owned,,25000000.0
+233,,,Bike and Car,Self Owned,,15000000.0
+234,,,Bike and Car,Self Owned,,18700000.0
+235,,,Car,Self Owned,,16000000.0
+236,Semi,southeast,Bike and Car,Self Owned,,9000000.0
+237,,,Bike and Car,Self Owned,,21500000.0
+238,,,Car,Self Owned,,8900000.0
+239,Semi,North,Bike and Car,Self Owned,,6000000.0
+240,Semi,North,Car,Self Owned,,
+241,Semi,East,Bike and Car,Self Owned,,7500000.0
+242,Fully Furnished,West,Bike and Car,Self Owned,,22000000.0
+243,,,Car,Self Owned,,18000000.0
+244,,,Bike and Car,Self Owned,,24500000.0
+245,Semi,South,Bike,Self Owned,,22400000.0
+246,,East,Bike and Car,Self Owned,,13700000.0
+247,,East,Bike and Car,Self Owned,,13800000.0
+248,,East,Bike and Car,Self Owned,,11000000.0
+249,,,Bike and Car,Self Owned,,8500000.0
+250,Fully Furnished,South,Car,Self Owned,,7560000.0
+251,,,Car,Self Owned,,5300000.0
+252,,North,Bike and Car,Self Owned,,19000000.0
+253,,,Bike and Car,Self Owned,,10500000.0
+254,,,Car,Self Owned,,53000000.0
+255,,,Bike and Car,Self Owned,,37500000.0
+256,,,Bike and Car,Self Owned,,9300000.0
+257,,,Bike and Car,Self Owned,,25000000.0
+258,,,Bike and Car,Self Owned,,15000000.0
+259,,,Bike and Car,Self Owned,,18700000.0
+260,,,Car,Self Owned,,16000000.0
+261,Semi,southeast,Bike and Car,Self Owned,,9000000.0
+262,,,Bike and Car,Self Owned,,21500000.0
+263,,,Car,Self Owned,,8900000.0
+264,Semi,North,Bike and Car,Self Owned,,6000000.0
+265,Semi,North,Car,Self Owned,,
+266,Semi,East,Bike and Car,Self Owned,,7500000.0
+267,Fully Furnished,West,Bike and Car,Self Owned,,22000000.0
+268,,,Car,Self Owned,,18000000.0
+269,,,Bike and Car,Self Owned,,24500000.0
+270,Semi,South,Bike,Self Owned,,22400000.0
+271,,East,Bike and Car,Self Owned,,13700000.0
+272,,East,Bike and Car,Self Owned,,13800000.0
+273,,East,Bike and Car,Self Owned,,11000000.0
+274,,,Bike and Car,Self Owned,,8500000.0
+275,Fully Furnished,South,Car,Self Owned,,7560000.0
+276,,,Car,Self Owned,,5300000.0
+277,,North,Bike and Car,Self Owned,,19000000.0
+278,,,Bike and Car,Self Owned,,10500000.0
+279,,,Car,Self Owned,,53000000.0
+280,,,Bike and Car,Self Owned,,37500000.0
+281,,,Bike and Car,Self Owned,,9300000.0
+282,,,Bike and Car,Self Owned,,25000000.0
+283,,,Bike and Car,Self Owned,,15000000.0
+284,,,Bike and Car,Self Owned,,18700000.0
+285,,,Car,Self Owned,,16000000.0
+286,Semi,southeast,Bike and Car,Self Owned,,9000000.0
+287,,,Bike and Car,Self Owned,,21500000.0
+288,,,Car,Self Owned,,8900000.0
+289,Semi,North,Bike and Car,Self Owned,,6000000.0
+290,Semi,North,Car,Self Owned,,
+291,Semi,East,Bike and Car,Self Owned,,7500000.0
+292,Fully Furnished,West,Bike and Car,Self Owned,,22000000.0
+293,,,Car,Self Owned,,18000000.0
+294,,,Bike and Car,Self Owned,,24500000.0
+295,Semi,South,Bike,Self Owned,,22400000.0
+296,,East,Bike and Car,Self Owned,,13700000.0
+297,,East,Bike and Car,Self Owned,,13800000.0
+298,,East,Bike and Car,Self Owned,,11000000.0
+299,,,Bike and Car,Self Owned,,8500000.0
+300,Fully Furnished,South,Car,Self Owned,,7560000.0
+301,,,Car,Self Owned,,5300000.0
+302,,North,Bike and Car,Self Owned,,19000000.0
+303,,,Bike and Car,Self Owned,,10500000.0
+304,,,Car,Self Owned,,53000000.0
+305,,,Bike and Car,Self Owned,,37500000.0
+306,,,Bike and Car,Self Owned,,9300000.0
+307,,,Bike and Car,Self Owned,,25000000.0
+308,,,Bike and Car,Self Owned,,15000000.0
+309,,,Bike and Car,Self Owned,,18700000.0
+310,,,Car,Self Owned,,16000000.0
+311,Semi,southeast,Bike and Car,Self Owned,,9000000.0
+312,,,Bike and Car,Self Owned,,21500000.0
+313,,,Car,Self Owned,,8900000.0
+314,Semi,North,Bike and Car,Self Owned,,6000000.0
+315,Semi,North,Car,Self Owned,,
+316,Semi,East,Bike and Car,Self Owned,,7500000.0
+317,Fully Furnished,West,Bike and Car,Self Owned,,22000000.0
+318,,,Car,Self Owned,,18000000.0
+319,,,Bike and Car,Self Owned,,24500000.0
+320,Semi,South,Bike,Self Owned,,22400000.0
+321,,East,Bike and Car,Self Owned,,13700000.0
+322,,East,Bike and Car,Self Owned,,13800000.0
+323,,East,Bike and Car,Self Owned,,11000000.0
+324,,,Bike and Car,Self Owned,,8500000.0
+325,Fully Furnished,South,Car,Self Owned,,7560000.0
+326,,,Car,Self Owned,,5300000.0
+327,,North,Bike and Car,Self Owned,,19000000.0
+328,,,Bike and Car,Self Owned,,10500000.0
+329,,,Car,Self Owned,,53000000.0
+330,,,Bike and Car,Self Owned,,37500000.0
+331,,,Bike and Car,Self Owned,,9300000.0
+332,,,Bike and Car,Self Owned,,25000000.0
+333,,,Bike and Car,Self Owned,,15000000.0
+334,,,Bike and Car,Self Owned,,18700000.0
+335,,,Car,Self Owned,,16000000.0
+336,Semi,southeast,Bike and Car,Self Owned,,9000000.0
+337,,,Bike and Car,Self Owned,,21500000.0
+338,,,Car,Self Owned,,8900000.0
+339,Semi,North,Bike and Car,Self Owned,,6000000.0
+340,Semi,North,Car,Self Owned,,
+341,Semi,East,Bike and Car,Self Owned,,7500000.0
+342,Fully Furnished,West,Bike and Car,Self Owned,,22000000.0
+343,,,Car,Self Owned,,18000000.0
+344,,,Bike and Car,Self Owned,,24500000.0
+345,Semi,South,Bike,Self Owned,,22400000.0
+346,,East,Bike and Car,Self Owned,,13700000.0
+347,,East,Bike and Car,Self Owned,,13800000.0
+348,,East,Bike and Car,Self Owned,,11000000.0
+349,,,Bike and Car,Self Owned,,8500000.0
+350,Fully Furnished,South,Car,Self Owned,,7560000.0
+351,,,Car,Self Owned,,5300000.0
+352,,North,Bike and Car,Self Owned,,19000000.0
+353,,,Bike and Car,Self Owned,,10500000.0
+354,,,Car,Self Owned,,53000000.0
+355,,,Bike and Car,Self Owned,,37500000.0
+356,,,Bike and Car,Self Owned,,9300000.0
+357,,,Bike and Car,Self Owned,,25000000.0
+358,,,Bike and Car,Self Owned,,15000000.0
+359,,,Bike and Car,Self Owned,,18700000.0
+360,,,Car,Self Owned,,16000000.0
+361,Semi,southeast,Bike and Car,Self Owned,,9000000.0
+362,,,Bike and Car,Self Owned,,21500000.0
+363,,,Car,Self Owned,,8900000.0
+364,Semi,North,Bike and Car,Self Owned,,6000000.0
+365,Semi,North,Car,Self Owned,,
+366,Semi,East,Bike and Car,Self Owned,,7500000.0
+367,Fully Furnished,West,Bike and Car,Self Owned,,22000000.0
+368,,,Car,Self Owned,,18000000.0
+369,,,Bike and Car,Self Owned,,24500000.0
+370,Semi,South,Bike,Self Owned,,22400000.0
+371,,East,Bike and Car,Self Owned,,13700000.0
+372,,East,Bike and Car,Self Owned,,13800000.0
+373,,East,Bike and Car,Self Owned,,11000000.0
+374,,,Bike and Car,Self Owned,,8500000.0
+375,Fully Furnished,South,Car,Self Owned,,7560000.0
+376,,,Car,Self Owned,,28000000.0
+377,,,,Self Owned,,3200000.0
+378,,,Bike,Self Owned,,55000000.0
+379,,,Car,Self Owned,,33500000.0
+380,,,Bike and Car,Self Owned,,5800000.0
+381,Semi,West,Car,Self Owned,,5500000.0
+382,,,Car,Self Owned,,6000000.0
+383,,,Bike and Car,Self Owned,,45000000.0
+384,,,Bike and Car,Self Owned,,4000000.0
+385,Semi,North,Car,Self Owned,,3250000.0
+386,Semi,North,Bike and Car,Self Owned,,7500000.0
+387,,,Bike,Self Owned,,6000000.0
+388,,,Bike,Self Owned,,7700000.0
+389,,,,Self Owned,,6500000.0
+390,,North,Bike and Car,Self Owned,,1300000.0
+391,,,Bike,Self Owned,,3500000.0
+392,Fully Furnished,East,Bike and Car,Self Owned,,8000000.0
+393,Fully Furnished,East,Bike and Car,Self Owned,,6000000.0
+394,,,Bike and Car,Self Owned,,9000000.0
+395,,,Bike and Car,Self Owned,,19000000.0
+396,,,Bike,Self Owned,,12000000.0
+397,,,Bike and Car,Self Owned,,9600000.0
+398,,,Bike,Self Owned,,7000000.0
+399,,,,Self Owned,,7000000.0
+400,Fully Furnished,East,Bike and Car,Self Owned,,4000000.0
+401,Fully Furnished,North,Car,Self Owned,,6000000.0
+402,,,Bike and Car,Self Owned,,40000000.0
+403,,,Bike and Car,Self Owned,,42500000.0
+404,,,Bike and Car,Self Owned,,50000000.0
+405,,,Bike and Car,Self Owned,,13500000.0
+406,,,,Self Owned,,5500000.0
+407,,,Bike,Self Owned,,11000000.0
+408,,,Bike,Self Owned,,9200000.0
+409,,,Bike,Self Owned,,9200000.0
+410,,,Bike,Self Owned,,4500000.0
+411,,,Bike and Car,Self Owned,,9600000.0
+412,,,Car,Self Owned,,28000000.0
+413,,,,Self Owned,,3200000.0
+414,,,Bike,Self Owned,,55000000.0
+415,,,Car,Self Owned,,33500000.0
+416,,,Bike and Car,Self Owned,,5800000.0
+417,Semi,West,Car,Self Owned,,5500000.0
+418,,,Car,Self Owned,,6000000.0
+419,,,Bike and Car,Self Owned,,45000000.0
+420,,,Bike and Car,Self Owned,,4000000.0
+421,Semi,North,Car,Self Owned,,3250000.0
+422,Semi,North,Bike and Car,Self Owned,,7500000.0
+423,,,Bike,Self Owned,,6000000.0
+424,,,Bike,Self Owned,,7700000.0
+425,,,,Self Owned,,6500000.0
+426,,North,Bike and Car,Self Owned,,1300000.0
+427,,,Bike,Self Owned,,3500000.0
+428,Fully Furnished,East,Bike and Car,Self Owned,,8000000.0
+429,Fully Furnished,East,Bike and Car,Self Owned,,6000000.0
+430,,,Bike and Car,Self Owned,,9000000.0
+431,,,Bike and Car,Self Owned,,19000000.0
+432,,,Bike,Self Owned,,12000000.0
+433,,,Bike and Car,Self Owned,,9600000.0
+434,,,Bike,Self Owned,,7000000.0
+435,,,,Self Owned,,7000000.0
+436,Fully Furnished,East,Bike and Car,Self Owned,,4000000.0
+437,Fully Furnished,North,Car,Self Owned,,6000000.0
+438,,,Bike and Car,Self Owned,,40000000.0
+439,,,Bike and Car,Self Owned,,42500000.0
+440,,,Bike and Car,Self Owned,,50000000.0
+441,,,Bike and Car,Self Owned,,13500000.0
+442,,,,Self Owned,,5500000.0
+443,,,Bike,Self Owned,,11000000.0
+444,,,Bike,Self Owned,,9200000.0
+445,,,Bike,Self Owned,,9200000.0
+446,,,Bike,Self Owned,,4500000.0
+447,,,Bike and Car,Self Owned,,9600000.0
+448,,,Car,Self Owned,,28000000.0
+449,,,,Self Owned,,3200000.0
+450,,,Bike,Self Owned,,55000000.0
+451,,,Car,Self Owned,,33500000.0
+452,,,Bike and Car,Self Owned,,5800000.0
+453,Semi,West,Car,Self Owned,,5500000.0
+454,,,Car,Self Owned,,6000000.0
+455,,,Bike and Car,Self Owned,,45000000.0
+456,,,Bike and Car,Self Owned,,4000000.0
+457,Semi,North,Car,Self Owned,,3250000.0
+458,Semi,North,Bike and Car,Self Owned,,7500000.0
+459,,,Bike,Self Owned,,6000000.0
+460,,,Bike,Self Owned,,7700000.0
+461,,,,Self Owned,,6500000.0
+462,,North,Bike and Car,Self Owned,,1300000.0
+463,,,Bike,Self Owned,,3500000.0
+464,Fully Furnished,East,Bike and Car,Self Owned,,8000000.0
+465,Fully Furnished,East,Bike and Car,Self Owned,,6000000.0
+466,,,Bike and Car,Self Owned,,9000000.0
+467,,,Bike and Car,Self Owned,,19000000.0
+468,,,Bike,Self Owned,,12000000.0
+469,,,Bike and Car,Self Owned,,9600000.0
+470,,,Bike,Self Owned,,7000000.0
+471,,,,Self Owned,,7000000.0
+472,Fully Furnished,East,Bike and Car,Self Owned,,4000000.0
+473,Fully Furnished,North,Car,Self Owned,,6000000.0
+474,,,Bike and Car,Self Owned,,40000000.0
+475,,,Bike and Car,Self Owned,,42500000.0
+476,,,Bike and Car,Self Owned,,50000000.0
+477,,,Bike and Car,Self Owned,,13500000.0
+478,,,,Self Owned,,5500000.0
+479,,,Bike,Self Owned,,11000000.0
+480,,,Bike,Self Owned,,9200000.0
+481,,,Bike,Self Owned,,9200000.0
+482,,,Bike,Self Owned,,4500000.0
+483,,,Bike and Car,Self Owned,,9600000.0
+484,,,Car,Self Owned,,28000000.0
+485,,,,Self Owned,,3200000.0
+486,,,Bike,Self Owned,,55000000.0
+487,,,Car,Self Owned,,33500000.0
+488,,,Bike and Car,Self Owned,,5800000.0
+489,Semi,West,Car,Self Owned,,5500000.0
+490,,,Car,Self Owned,,6000000.0
+491,,,Bike and Car,Self Owned,,45000000.0
+492,,,Bike and Car,Self Owned,,4000000.0
+493,Semi,North,Car,Self Owned,,3250000.0
+494,Semi,North,Bike and Car,Self Owned,,7500000.0
+495,,,Bike,Self Owned,,6000000.0
+496,,,Bike,Self Owned,,7700000.0
+497,,,,Self Owned,,6500000.0
+498,,North,Bike and Car,Self Owned,,1300000.0
+499,,,Bike,Self Owned,,3500000.0
+500,Fully Furnished,East,Bike and Car,Self Owned,,8000000.0
+501,Fully Furnished,East,Bike and Car,Self Owned,,6000000.0
+502,,,Bike and Car,Self Owned,,9000000.0
+503,,,Bike and Car,Self Owned,,19000000.0
+504,,,Bike,Self Owned,,12000000.0
+505,,,Bike and Car,Self Owned,,9600000.0
+506,,,Bike,Self Owned,,7000000.0
+507,,,,Self Owned,,7000000.0
+508,Fully Furnished,East,Bike and Car,Self Owned,,4000000.0
+509,Fully Furnished,North,Car,Self Owned,,6000000.0
+510,,,Bike and Car,Self Owned,,40000000.0
+511,,,Bike and Car,Self Owned,,42500000.0
+512,,,Bike and Car,Self Owned,,50000000.0
+513,,,Bike and Car,Self Owned,,13500000.0
+514,,,,Self Owned,,5500000.0
+515,,,Bike,Self Owned,,11000000.0
+516,,,Bike,Self Owned,,9200000.0
+517,,,Bike,Self Owned,,9200000.0
+518,,,Bike,Self Owned,,4500000.0
+519,,,Bike and Car,Self Owned,,9600000.0
+520,,,Car,Self Owned,,28000000.0
+521,,,,Self Owned,,3200000.0
+522,,,Bike,Self Owned,,55000000.0
+523,,,Car,Self Owned,,33500000.0
+524,,,Bike and Car,Self Owned,,5800000.0
+525,Semi,West,Car,Self Owned,,5500000.0
+526,,,Car,Self Owned,,6000000.0
+527,,,Bike and Car,Self Owned,,45000000.0
+528,,,Bike and Car,Self Owned,,4000000.0
+529,Semi,North,Car,Self Owned,,3250000.0
+530,Semi,North,Bike and Car,Self Owned,,7500000.0
+531,,,Bike,Self Owned,,6000000.0
+532,,,Bike,Self Owned,,7700000.0
+533,,,,Self Owned,,6500000.0
+534,,North,Bike and Car,Self Owned,,1300000.0
+535,,,Bike,Self Owned,,3500000.0
+536,Fully Furnished,East,Bike and Car,Self Owned,,8000000.0
+537,Fully Furnished,East,Bike and Car,Self Owned,,6000000.0
+538,,,Bike and Car,Self Owned,,9000000.0
+539,,,Bike and Car,Self Owned,,19000000.0
+540,,,Bike,Self Owned,,12000000.0
+541,,,Bike and Car,Self Owned,,9600000.0
+542,,,Bike,Self Owned,,7000000.0
+543,,,,Self Owned,,7000000.0
+544,Fully Furnished,East,Bike and Car,Self Owned,,4000000.0
+545,Fully Furnished,North,Car,Self Owned,,6000000.0
+546,,,Bike and Car,Self Owned,,40000000.0
+547,,,Bike and Car,Self Owned,,42500000.0
+548,,,Bike and Car,Self Owned,,50000000.0
+549,,,Bike and Car,Self Owned,,13500000.0
+550,,,,Self Owned,,5500000.0
+551,,,Bike,Self Owned,,11000000.0
+552,,,Bike,Self Owned,,9200000.0
+553,,,Bike,Self Owned,,9200000.0
+554,,,Bike,Self Owned,,4500000.0
+555,,,Bike and Car,Self Owned,,9600000.0
+556,,,Car,Self Owned,,28000000.0
+557,,,,Self Owned,,3200000.0
+558,,,Bike,Self Owned,,55000000.0
+559,,,Car,Self Owned,,33500000.0
+560,,,Bike and Car,Self Owned,,5800000.0
+561,Semi,West,Car,Self Owned,,5500000.0
+562,,,Car,Self Owned,,6000000.0
+563,,,Bike and Car,Self Owned,,45000000.0
+564,,,Bike and Car,Self Owned,,4000000.0
+565,Semi,North,Car,Self Owned,,3250000.0
+566,Semi,North,Bike and Car,Self Owned,,7500000.0
+567,,,Bike,Self Owned,,6000000.0
+568,,,Bike,Self Owned,,7700000.0
+569,,,,Self Owned,,6500000.0
+570,,North,Bike and Car,Self Owned,,1300000.0
+571,,,Bike,Self Owned,,3500000.0
+572,Fully Furnished,East,Bike and Car,Self Owned,,8000000.0
+573,Fully Furnished,East,Bike and Car,Self Owned,,6000000.0
+574,,,Bike and Car,Self Owned,,9000000.0
+575,,,Bike and Car,Self Owned,,19000000.0
+576,,,Bike,Self Owned,,12000000.0
+577,,,Bike and Car,Self Owned,,9600000.0
+578,,,Bike,Self Owned,,7000000.0
+579,,,,Self Owned,,7000000.0
+580,Fully Furnished,East,Bike and Car,Self Owned,,4000000.0
+581,Fully Furnished,North,Car,Self Owned,,6000000.0
+582,,,Bike and Car,Self Owned,,40000000.0
+583,,,Bike and Car,Self Owned,,42500000.0
+584,,,Bike and Car,Self Owned,,50000000.0
+585,,,Bike and Car,Self Owned,,13500000.0
+586,,,,Self Owned,,5500000.0
+587,,,Bike,Self Owned,,11000000.0
+588,,,Bike,Self Owned,,9200000.0
+589,,,Bike,Self Owned,,9200000.0
+590,,,Bike,Self Owned,,4500000.0
+591,,,Bike and Car,Self Owned,,9600000.0
+592,,,Car,Self Owned,,28000000.0
+593,,,,Self Owned,,3200000.0
+594,,,Bike,Self Owned,,55000000.0
+595,,,Car,Self Owned,,33500000.0
+596,,,Bike and Car,Self Owned,,5800000.0
+597,Semi,West,Car,Self Owned,,5500000.0
+598,,,Car,Self Owned,,6000000.0
+599,,,Bike and Car,Self Owned,,45000000.0
+600,,,Bike and Car,Self Owned,,4000000.0
+601,Semi,North,Car,Self Owned,,3250000.0
+602,Semi,North,Bike and Car,Self Owned,,7500000.0
+603,,,Bike,Self Owned,,6000000.0
+604,,,Bike,Self Owned,,7700000.0
+605,,,,Self Owned,,6500000.0
+606,,North,Bike and Car,Self Owned,,1300000.0
+607,,,Bike,Self Owned,,3500000.0
+608,Fully Furnished,East,Bike and Car,Self Owned,,8000000.0
+609,Fully Furnished,East,Bike and Car,Self Owned,,6000000.0
+610,,,Bike and Car,Self Owned,,9000000.0
+611,,,Bike and Car,Self Owned,,19000000.0
+612,,,Bike,Self Owned,,12000000.0
+613,,,Bike and Car,Self Owned,,9600000.0
+614,,,Bike,Self Owned,,7000000.0
+615,,,,Self Owned,,7000000.0
+616,Fully Furnished,East,Bike and Car,Self Owned,,4000000.0
+617,Fully Furnished,North,Car,Self Owned,,6000000.0
+618,,,Bike and Car,Self Owned,,40000000.0
+619,,,Bike and Car,Self Owned,,42500000.0
+620,,,Bike and Car,Self Owned,,50000000.0
+621,,,Bike and Car,Self Owned,,13500000.0
+622,,,,Self Owned,,5500000.0
+623,,,Bike,Self Owned,,11000000.0
+624,,,Bike,Self Owned,,9200000.0
+625,,,Bike,Self Owned,,9200000.0
+626,,,Bike,Self Owned,,4500000.0
+627,,,Bike and Car,Self Owned,,9600000.0
+628,,,Car,Self Owned,,28000000.0
+629,,,,Self Owned,,3200000.0
+630,,,Bike,Self Owned,,55000000.0
+631,,,Car,Self Owned,,33500000.0
+632,,,Bike and Car,Self Owned,,5800000.0
+633,Semi,West,Car,Self Owned,,5500000.0
+634,,,Car,Self Owned,,6000000.0
+635,,,Bike and Car,Self Owned,,45000000.0
+636,,,Bike and Car,Self Owned,,4000000.0
+637,Semi,North,Car,Self Owned,,3250000.0
+638,Semi,North,Bike and Car,Self Owned,,7500000.0
+639,,,Bike,Self Owned,,6000000.0
+640,,,Bike,Self Owned,,7700000.0
+641,,,,Self Owned,,6500000.0
+642,,North,Bike and Car,Self Owned,,1300000.0
+643,,,Bike,Self Owned,,3500000.0
+644,Fully Furnished,East,Bike and Car,Self Owned,,8000000.0
+645,Fully Furnished,East,Bike and Car,Self Owned,,6000000.0
+646,,,Bike and Car,Self Owned,,9000000.0
+647,,,Bike and Car,Self Owned,,19000000.0
+648,,,Bike,Self Owned,,12000000.0
+649,,,Bike and Car,Self Owned,,9600000.0
+650,,,Bike,Self Owned,,7000000.0
+651,,,,Self Owned,,7000000.0
+652,Fully Furnished,East,Bike and Car,Self Owned,,4000000.0
+653,Fully Furnished,North,Car,Self Owned,,6000000.0
+654,,,Bike and Car,Self Owned,,40000000.0
+655,,,Bike and Car,Self Owned,,42500000.0
+656,,,Bike and Car,Self Owned,,50000000.0
+657,,,Bike and Car,Self Owned,,13500000.0
+658,,,,Self Owned,,5500000.0
+659,,,Bike,Self Owned,,11000000.0
+660,,,Bike,Self Owned,,9200000.0
+661,,,Bike,Self Owned,,9200000.0
+662,,,Bike,Self Owned,,4500000.0
+663,,,Bike and Car,Self Owned,,9600000.0
+664,,,Car,Self Owned,,28000000.0
+665,,,,Self Owned,,3200000.0
+666,,,Bike,Self Owned,,55000000.0
+667,,,Car,Self Owned,,33500000.0
+668,,,Bike and Car,Self Owned,,5800000.0
+669,Semi,West,Car,Self Owned,,5500000.0
+670,,,Car,Self Owned,,6000000.0
+671,,,Bike and Car,Self Owned,,45000000.0
+672,,,Bike and Car,Self Owned,,4000000.0
+673,Semi,North,Car,Self Owned,,3250000.0
+674,Semi,North,Bike and Car,Self Owned,,7500000.0
+675,,,Bike,Self Owned,,6000000.0
+676,,,Bike,Self Owned,,7700000.0
+677,,,,Self Owned,,6500000.0
+678,,North,Bike and Car,Self Owned,,1300000.0
+679,,,Bike,Self Owned,,3500000.0
+680,Fully Furnished,East,Bike and Car,Self Owned,,8000000.0
+681,Fully Furnished,East,Bike and Car,Self Owned,,6000000.0
+682,,,Bike and Car,Self Owned,,9000000.0
+683,,,Bike and Car,Self Owned,,19000000.0
+684,,,Bike,Self Owned,,12000000.0
+685,,,Bike and Car,Self Owned,,9600000.0
+686,,,Bike,Self Owned,,7000000.0
+687,,,,Self Owned,,7000000.0
+688,Fully Furnished,East,Bike and Car,Self Owned,,4000000.0
+689,Fully Furnished,North,Car,Self Owned,,6000000.0
+690,,,Bike and Car,Self Owned,,40000000.0
+691,,,Bike and Car,Self Owned,,42500000.0
+692,,,Bike and Car,Self Owned,,50000000.0
+693,,,Bike and Car,Self Owned,,13500000.0
+694,,,,Self Owned,,5500000.0
+695,,,Bike,Self Owned,,11000000.0
+696,,,Bike,Self Owned,,9200000.0
+697,,,Bike,Self Owned,,9200000.0
+698,,,Bike,Self Owned,,4500000.0
+699,,,Bike and Car,Self Owned,,9600000.0
+700,,,Car,Self Owned,,28000000.0
+701,,,,Self Owned,,3200000.0
+702,,,Bike,Self Owned,,55000000.0
+703,,,Car,Self Owned,,33500000.0
+704,,,Bike and Car,Self Owned,,5800000.0
+705,Semi,West,Car,Self Owned,,5500000.0
+706,,,Car,Self Owned,,6000000.0
+707,,,Bike and Car,Self Owned,,45000000.0
+708,,,Bike and Car,Self Owned,,4000000.0
+709,Semi,North,Car,Self Owned,,3250000.0
+710,Semi,North,Bike and Car,Self Owned,,7500000.0
+711,,,Bike,Self Owned,,6000000.0
+712,,,Bike,Self Owned,,7700000.0
+713,,,,Self Owned,,6500000.0
+714,,North,Bike and Car,Self Owned,,1300000.0
+715,,,Bike,Self Owned,,3500000.0
+716,Fully Furnished,East,Bike and Car,Self Owned,,8000000.0
+717,Fully Furnished,East,Bike and Car,Self Owned,,6000000.0
+718,,,Bike and Car,Self Owned,,9000000.0
+719,,,Bike and Car,Self Owned,,19000000.0
+720,,,Bike,Self Owned,,12000000.0
+721,,,Bike and Car,Self Owned,,9600000.0
+722,,,Bike,Self Owned,,7000000.0
+723,,,,Self Owned,,7000000.0
+724,Fully Furnished,East,Bike and Car,Self Owned,,4000000.0
+725,Fully Furnished,North,Car,Self Owned,,6000000.0
+726,,,Bike and Car,Self Owned,,40000000.0
+727,,,Bike and Car,Self Owned,,42500000.0
+728,,,Bike and Car,Self Owned,,50000000.0
+729,,,Bike and Car,Self Owned,,13500000.0
+730,,,,Self Owned,,5500000.0
+731,,,Bike,Self Owned,,11000000.0
+732,,,Bike,Self Owned,,9200000.0
+733,,,Bike,Self Owned,,9200000.0
+734,,,Bike,Self Owned,,4500000.0
+735,,,Bike and Car,Self Owned,,9600000.0
+736,,,Bike and Car,Self Owned,,3500000.0
+737,,,,Self Owned,,4000000.0
+738,,,Bike and Car,Self Owned,,5500000.0
+739,,,Bike,Self Owned,,5800000.0
+740,,,,Self Owned,,6000000.0
+741,,,Bike,Self Owned,,6500000.0
+742,,,,Self Owned,,4200000.0
+743,,,Bike and Car,Self Owned,,17500000.0
+744,,,,Self Owned,,3000000.0
+745,,,Car,Self Owned,,4000000.0
+746,,,Bike,Self Owned,,5600000.0
+747,,,Bike and Car,Self Owned,,15000000.0
+748,,,Bike and Car,Self Owned,,32500000.0
+749,,southeast,Bike,Self Owned,,4000000.0
+750,,,Bike and Car,Self Owned,,12000000.0
+751,,,,Self Owned,,3400000.0
+752,,,,Self Owned,,13000000.0
+753,,,,Self Owned,,2550000.0
+754,,,Bike,Self Owned,,2250000.0
+755,,,Bike and Car,Self Owned,,22500000.0
+756,,,Bike,Self Owned,,2450000.0
+757,,,Bike,Self Owned,,5700000.0
+758,,,Bike and Car,Self Owned,,4700000.0
+759,Semi,South,Bike and Car,Self Owned,,4000000.0
+760,,,,Self Owned,,3000000.0
+761,,,Bike and Car,Self Owned,,3500000.0
+762,,,,Self Owned,,4000000.0
+763,,,Bike and Car,Self Owned,,5500000.0
+764,,,Bike,Self Owned,,5800000.0
+765,,,,Self Owned,,6000000.0
+766,,,Bike,Self Owned,,6500000.0
+767,,,,Self Owned,,4200000.0
+768,,,Bike and Car,Self Owned,,17500000.0
+769,,,,Self Owned,,3000000.0
+770,,,Car,Self Owned,,4000000.0
+771,,,Bike,Self Owned,,5600000.0
+772,,,Bike and Car,Self Owned,,15000000.0
+773,,,Bike and Car,Self Owned,,32500000.0
+774,,southeast,Bike,Self Owned,,4000000.0
+775,,,Bike and Car,Self Owned,,12000000.0
+776,,,,Self Owned,,3400000.0
+777,,,,Self Owned,,13000000.0
+778,,,,Self Owned,,2550000.0
+779,,,Bike,Self Owned,,2250000.0
+780,,,Bike and Car,Self Owned,,22500000.0
+781,,,Bike,Self Owned,,2450000.0
+782,,,Bike,Self Owned,,5700000.0
+783,,,Bike and Car,Self Owned,,4700000.0
+784,Semi,South,Bike and Car,Self Owned,,4000000.0
+785,,,,Self Owned,,3000000.0
+786,,,Bike and Car,Self Owned,,3500000.0
+787,,,,Self Owned,,4000000.0
+788,,,Bike and Car,Self Owned,,5500000.0
+789,,,Bike,Self Owned,,5800000.0
+790,,,,Self Owned,,6000000.0
+791,,,Bike,Self Owned,,6500000.0
+792,,,,Self Owned,,4200000.0
+793,,,Bike and Car,Self Owned,,17500000.0
+794,,,,Self Owned,,3000000.0
+795,,,Car,Self Owned,,4000000.0
+796,,,Bike,Self Owned,,5600000.0
+797,,,Bike and Car,Self Owned,,15000000.0
+798,,,Bike and Car,Self Owned,,32500000.0
+799,,southeast,Bike,Self Owned,,4000000.0
+800,,,Bike and Car,Self Owned,,12000000.0
+801,,,,Self Owned,,3400000.0
+802,,,,Self Owned,,13000000.0
+803,,,,Self Owned,,2550000.0
+804,,,Bike,Self Owned,,2250000.0
+805,,,Bike and Car,Self Owned,,22500000.0
+806,,,Bike,Self Owned,,2450000.0
+807,,,Bike,Self Owned,,5700000.0
+808,,,Bike and Car,Self Owned,,4700000.0
+809,Semi,South,Bike and Car,Self Owned,,4000000.0
+810,,,,Self Owned,,3000000.0
+811,,,Bike and Car,Self Owned,,3500000.0
+812,,,,Self Owned,,4000000.0
+813,,,Bike and Car,Self Owned,,5500000.0
+814,,,Bike,Self Owned,,5800000.0
+815,,,,Self Owned,,6000000.0
+816,,,Bike,Self Owned,,6500000.0
+817,,,,Self Owned,,4200000.0
+818,,,Bike and Car,Self Owned,,17500000.0
+819,,,,Self Owned,,3000000.0
+820,,,Car,Self Owned,,4000000.0
+821,,,Bike,Self Owned,,5600000.0
+822,,,Bike and Car,Self Owned,,15000000.0
+823,,,Bike and Car,Self Owned,,32500000.0
+824,,southeast,Bike,Self Owned,,4000000.0
+825,,,Bike and Car,Self Owned,,12000000.0
+826,,,,Self Owned,,3400000.0
+827,,,,Self Owned,,13000000.0
+828,,,,Self Owned,,2550000.0
+829,,,Bike,Self Owned,,2250000.0
+830,,,Bike and Car,Self Owned,,22500000.0
+831,,,Bike,Self Owned,,2450000.0
+832,,,Bike,Self Owned,,5700000.0
+833,,,Bike and Car,Self Owned,,4700000.0
+834,Semi,South,Bike and Car,Self Owned,,4000000.0
+835,,,,Self Owned,,3000000.0
+836,,,Bike and Car,Self Owned,,3500000.0
+837,,,,Self Owned,,4000000.0
+838,,,Bike and Car,Self Owned,,5500000.0
+839,,,Bike,Self Owned,,5800000.0
+840,,,,Self Owned,,6000000.0
+841,,,Bike,Self Owned,,6500000.0
+842,,,,Self Owned,,4200000.0
+843,,,Bike and Car,Self Owned,,17500000.0
+844,,,,Self Owned,,3000000.0
+845,,,Car,Self Owned,,4000000.0
+846,,,Bike,Self Owned,,5600000.0
+847,,,Bike and Car,Self Owned,,15000000.0
+848,,,Bike and Car,Self Owned,,32500000.0
+849,,southeast,Bike,Self Owned,,4000000.0
+850,,,Bike and Car,Self Owned,,12000000.0
+851,,,,Self Owned,,3400000.0
+852,,,,Self Owned,,13000000.0
+853,,,,Self Owned,,2550000.0
+854,,,Bike,Self Owned,,2250000.0
+855,,,Bike and Car,Self Owned,,22500000.0
+856,,,Bike,Self Owned,,2450000.0
+857,,,Bike,Self Owned,,5700000.0
+858,,,Bike and Car,Self Owned,,4700000.0
+859,Semi,South,Bike and Car,Self Owned,,4000000.0
+860,,,,Self Owned,,3000000.0
+861,,,Bike and Car,Self Owned,,3500000.0
+862,,,,Self Owned,,4000000.0
+863,,,Bike and Car,Self Owned,,5500000.0
+864,,,Bike,Self Owned,,5800000.0
+865,,,,Self Owned,,6000000.0
+866,,,Bike,Self Owned,,6500000.0
+867,,,,Self Owned,,4200000.0
+868,,,Bike and Car,Self Owned,,17500000.0
+869,,,,Self Owned,,3000000.0
+870,,,Car,Self Owned,,4000000.0
+871,,,Bike,Self Owned,,5600000.0
+872,,,Bike and Car,Self Owned,,15000000.0
+873,,,Bike and Car,Self Owned,,32500000.0
+874,,southeast,Bike,Self Owned,,4000000.0
+875,,,Bike and Car,Self Owned,,12000000.0
+876,,,,Self Owned,,3400000.0
+877,,,,Self Owned,,13000000.0
+878,,,,Self Owned,,2550000.0
+879,,,Bike,Self Owned,,2250000.0
+880,,,Bike and Car,Self Owned,,22500000.0
+881,,,Bike,Self Owned,,2450000.0
+882,,,Bike,Self Owned,,5700000.0
+883,,,Bike and Car,Self Owned,,4700000.0
+884,Semi,South,Bike and Car,Self Owned,,4000000.0
+885,,,,Self Owned,,3000000.0
+886,,,Bike and Car,Self Owned,,3500000.0
+887,,,,Self Owned,,4000000.0
+888,,,Bike and Car,Self Owned,,5500000.0
+889,,,Bike,Self Owned,,5800000.0
+890,,,,Self Owned,,6000000.0
+891,,,Bike,Self Owned,,6500000.0
+892,,,,Self Owned,,4200000.0
+893,,,Bike and Car,Self Owned,,17500000.0
+894,,,,Self Owned,,3000000.0
+895,,,Car,Self Owned,,4000000.0
+896,,,Bike,Self Owned,,5600000.0
+897,,,Bike and Car,Self Owned,,15000000.0
+898,,,Bike and Car,Self Owned,,32500000.0
+899,,southeast,Bike,Self Owned,,4000000.0
+900,,,Bike and Car,Self Owned,,12000000.0
+901,,,,Self Owned,,3400000.0
+902,,,,Self Owned,,13000000.0
+903,,,,Self Owned,,2550000.0
+904,,,Bike,Self Owned,,2250000.0
+905,,,Bike and Car,Self Owned,,22500000.0
+906,,,Bike,Self Owned,,2450000.0
+907,,,Bike,Self Owned,,5700000.0
+908,,,Bike and Car,Self Owned,,4700000.0
+909,Semi,South,Bike and Car,Self Owned,,4000000.0
+910,,,,Self Owned,,3000000.0
+911,,,Bike and Car,Self Owned,,3500000.0
+912,,,,Self Owned,,4000000.0
+913,,,Bike and Car,Self Owned,,5500000.0
+914,,,Bike,Self Owned,,5800000.0
+915,,,,Self Owned,,6000000.0
+916,,,Bike,Self Owned,,6500000.0
+917,,,,Self Owned,,4200000.0
+918,,,Bike and Car,Self Owned,,17500000.0
+919,,,,Self Owned,,3000000.0
+920,,,Car,Self Owned,,4000000.0
+921,,,Bike,Self Owned,,5600000.0
+922,,,Bike and Car,Self Owned,,15000000.0
+923,,,Bike and Car,Self Owned,,32500000.0
+924,,southeast,Bike,Self Owned,,4000000.0
+925,,,Bike and Car,Self Owned,,12000000.0
+926,,,,Self Owned,,3400000.0
+927,,,,Self Owned,,13000000.0
+928,,,,Self Owned,,2550000.0
+929,,,Bike,Self Owned,,2250000.0
+930,,,Bike and Car,Self Owned,,22500000.0
+931,,,Bike,Self Owned,,2450000.0
+932,,,Bike,Self Owned,,5700000.0
+933,,,Bike and Car,Self Owned,,4700000.0
+934,Semi,South,Bike and Car,Self Owned,,4000000.0
+935,,,,Self Owned,,3000000.0
+936,,,Bike and Car,Self Owned,,3500000.0
+937,,,,Self Owned,,4000000.0
+938,,,Bike and Car,Self Owned,,5500000.0
+939,,,Bike,Self Owned,,5800000.0
+940,,,,Self Owned,,6000000.0
+941,,,Bike,Self Owned,,6500000.0
+942,,,,Self Owned,,4200000.0
+943,,,Bike and Car,Self Owned,,17500000.0
+944,,,,Self Owned,,3000000.0
+945,,,Car,Self Owned,,4000000.0
+946,,,Bike,Self Owned,,5600000.0
+947,,,Bike and Car,Self Owned,,15000000.0
+948,,,Bike and Car,Self Owned,,32500000.0
+949,,southeast,Bike,Self Owned,,4000000.0
+950,,,Bike and Car,Self Owned,,12000000.0
+951,,,,Self Owned,,3400000.0
+952,,,,Self Owned,,13000000.0
+953,,,,Self Owned,,2550000.0
+954,,,Bike,Self Owned,,2250000.0
+955,,,Bike and Car,Self Owned,,22500000.0
+956,,,Bike,Self Owned,,2450000.0
+957,,,Bike,Self Owned,,5700000.0
+958,,,Bike and Car,Self Owned,,4700000.0
+959,Semi,South,Bike and Car,Self Owned,,4000000.0
+960,,,,Self Owned,,3000000.0
+961,,,Bike and Car,Self Owned,,3500000.0
+962,,,,Self Owned,,4000000.0
+963,,,Bike and Car,Self Owned,,5500000.0
+964,,,Bike,Self Owned,,5800000.0
+965,,,,Self Owned,,6000000.0
+966,,,Bike,Self Owned,,6500000.0
+967,,,,Self Owned,,4200000.0
+968,,,Bike and Car,Self Owned,,17500000.0
+969,,,,Self Owned,,3000000.0
+970,,,Car,Self Owned,,4000000.0
+971,,,Bike,Self Owned,,5600000.0
+972,,,Bike and Car,Self Owned,,15000000.0
+973,,,Bike and Car,Self Owned,,32500000.0
+974,,southeast,Bike,Self Owned,,4000000.0
+975,,,Bike and Car,Self Owned,,12000000.0
+976,,,,Self Owned,,3400000.0
+977,,,,Self Owned,,13000000.0
+978,,,,Self Owned,,2550000.0
+979,,,Bike,Self Owned,,2250000.0
+980,,,Bike and Car,Self Owned,,22500000.0
+981,,,Bike,Self Owned,,2450000.0
+982,,,Bike,Self Owned,,5700000.0
+983,,,Bike and Car,Self Owned,,4700000.0
+984,Semi,South,Bike and Car,Self Owned,,4000000.0
+985,,,,Self Owned,,3000000.0
+986,,,Bike and Car,Self Owned,,3500000.0
+987,,,,Self Owned,,4000000.0
+988,,,Bike and Car,Self Owned,,5500000.0
+989,,,Bike,Self Owned,,5800000.0
+990,,,,Self Owned,,6000000.0
+991,,,Bike,Self Owned,,6500000.0
+992,,,,Self Owned,,4200000.0
+993,,,Bike and Car,Self Owned,,17500000.0
+994,,,,Self Owned,,3000000.0
+995,,,Car,Self Owned,,4000000.0
+996,,,Bike,Self Owned,,5600000.0
+997,,,Bike and Car,Self Owned,,15000000.0
+998,,,Bike and Car,Self Owned,,32500000.0
+999,,southeast,Bike,Self Owned,,4000000.0
+1000,,,Bike and Car,Self Owned,,12000000.0
+1001,,,,Self Owned,,3400000.0
+1002,,,,Self Owned,,13000000.0
+1003,,,,Self Owned,,2550000.0
+1004,,,Bike,Self Owned,,2250000.0
+1005,,,Bike and Car,Self Owned,,22500000.0
+1006,,,Bike,Self Owned,,2450000.0
+1007,,,Bike,Self Owned,,5700000.0
+1008,,,Bike and Car,Self Owned,,4700000.0
+1009,Semi,South,Bike and Car,Self Owned,,4000000.0
+1010,,,,Self Owned,,3000000.0
+1011,,,Bike and Car,Self Owned,,3500000.0
+1012,,,,Self Owned,,4000000.0
+1013,,,Bike and Car,Self Owned,,5500000.0
+1014,,,Bike,Self Owned,,5800000.0
+1015,,,,Self Owned,,6000000.0
+1016,,,Bike,Self Owned,,6500000.0
+1017,,,,Self Owned,,4200000.0
+1018,,,Bike and Car,Self Owned,,17500000.0
+1019,,,,Self Owned,,3000000.0
+1020,,,Car,Self Owned,,4000000.0
+1021,,,Bike,Self Owned,,5600000.0
+1022,,,Bike and Car,Self Owned,,15000000.0
+1023,,,Bike and Car,Self Owned,,32500000.0
+1024,,southeast,Bike,Self Owned,,4000000.0
+1025,,,Bike and Car,Self Owned,,12000000.0
+1026,,,,Self Owned,,3400000.0
+1027,,,,Self Owned,,13000000.0
+1028,,,,Self Owned,,2550000.0
+1029,,,Bike,Self Owned,,2250000.0
+1030,,,Bike and Car,Self Owned,,22500000.0
+1031,,,Bike,Self Owned,,2450000.0
+1032,,,Bike,Self Owned,,5700000.0
+1033,,,Bike and Car,Self Owned,,4700000.0
+1034,Semi,South,Bike and Car,Self Owned,,4000000.0
+1035,,,,Self Owned,,3000000.0
+1036,,,Bike and Car,Self Owned,,3500000.0
+1037,,,,Self Owned,,4000000.0
+1038,,,Bike and Car,Self Owned,,5500000.0
+1039,,,Bike,Self Owned,,5800000.0
+1040,,,,Self Owned,,6000000.0
+1041,,,Bike,Self Owned,,6500000.0
+1042,,,,Self Owned,,4200000.0
+1043,,,Bike and Car,Self Owned,,17500000.0
+1044,,,,Self Owned,,3000000.0
+1045,,,Car,Self Owned,,4000000.0
+1046,,,Bike,Self Owned,,5600000.0
+1047,,,Bike and Car,Self Owned,,15000000.0
+1048,,,Bike and Car,Self Owned,,32500000.0
+1049,,southeast,Bike,Self Owned,,4000000.0
+1050,,,Bike and Car,Self Owned,,12000000.0
+1051,,,,Self Owned,,3400000.0
+1052,,,,Self Owned,,13000000.0
+1053,,,,Self Owned,,2550000.0
+1054,,,Bike,Self Owned,,2250000.0
+1055,,,Bike and Car,Self Owned,,22500000.0
+1056,,,Bike,Self Owned,,2450000.0
+1057,,,Bike,Self Owned,,5700000.0
+1058,,,Bike and Car,Self Owned,,4700000.0
+1059,Semi,South,Bike and Car,Self Owned,,4000000.0
+1060,,,,Self Owned,,3000000.0
+1061,,,Bike and Car,Self Owned,,3500000.0
+1062,,,,Self Owned,,4000000.0
+1063,,,Bike and Car,Self Owned,,5500000.0
+1064,,,Bike,Self Owned,,5800000.0
+1065,,,,Self Owned,,6000000.0
+1066,,,Bike,Self Owned,,6500000.0
+1067,,,,Self Owned,,4200000.0
+1068,,,Bike and Car,Self Owned,,17500000.0
+1069,,,,Self Owned,,3000000.0
+1070,,,Car,Self Owned,,4000000.0
+1071,,,Bike,Self Owned,,5600000.0
+1072,,,Bike and Car,Self Owned,,15000000.0
+1073,,,Bike and Car,Self Owned,,32500000.0
+1074,,southeast,Bike,Self Owned,,4000000.0
+1075,,,Bike and Car,Self Owned,,12000000.0
+1076,,,,Self Owned,,3400000.0
+1077,,,,Self Owned,,13000000.0
+1078,,,,Self Owned,,2550000.0
+1079,,,Bike,Self Owned,,2250000.0
+1080,,,Bike and Car,Self Owned,,22500000.0
+1081,,,Bike,Self Owned,,2450000.0
+1082,,,Bike,Self Owned,,5700000.0
+1083,,,Bike and Car,Self Owned,,4700000.0
+1084,Semi,South,Bike and Car,Self Owned,,4000000.0
+1085,,,,Self Owned,,3000000.0
+1086,,,Bike and Car,Self Owned,,3500000.0
+1087,,,,Self Owned,,4000000.0
+1088,,,Bike and Car,Self Owned,,5500000.0
+1089,,,Bike,Self Owned,,5800000.0
+1090,,,,Self Owned,,6000000.0
+1091,,,Bike,Self Owned,,6500000.0
+1092,,,,Self Owned,,4200000.0
+1093,,,Bike and Car,Self Owned,,17500000.0
+1094,,,,Self Owned,,3000000.0
+1095,,,Car,Self Owned,,4000000.0
+1096,,,Bike,Self Owned,,5600000.0
+1097,,,Bike and Car,Self Owned,,15000000.0
+1098,,,Bike and Car,Self Owned,,32500000.0
+1099,,southeast,Bike,Self Owned,,4000000.0
+1100,,,Bike and Car,Self Owned,,12000000.0
+1101,,,,Self Owned,,3400000.0
+1102,,,,Self Owned,,13000000.0
+1103,,,,Self Owned,,2550000.0
+1104,,,Bike,Self Owned,,2250000.0
+1105,,,Bike and Car,Self Owned,,22500000.0
+1106,,,Bike,Self Owned,,2450000.0
+1107,,,Bike,Self Owned,,5700000.0
+1108,,,Bike and Car,Self Owned,,4700000.0
+1109,Semi,South,Bike and Car,Self Owned,,4000000.0
+1110,,,,Self Owned,,3000000.0
+1111,,,Bike and Car,Self Owned,,15000000.0
+1112,Semi,North,Bike and Car,Self Owned,,30000000.0
+1113,,,,Self Owned,,5500000.0
+1114,,,,Self Owned,,28000000.0
+1115,Fully Furnished,East,Car,Self Owned,,21000000.0
+1116,,,Bike and Car,Self Owned,,45000000.0
+1117,,,Car,Self Owned,,4000000.0
+1118,,,Bike,Self Owned,,40000000.0
+1119,,,,Self Owned,,16500000.0
+1120,,,Bike and Car,Self Owned,,11000000.0
+1121,,,Bike,Self Owned,,6000000.0
+1122,,,Bike and Car,Self Owned,,27000000.0
+1123,,,Bike,Self Owned,,11500000.0
+1124,,,,Self Owned,,23000000.0
+1125,,,Bike and Car,Self Owned,,11000000.0
+1126,,,Bike and Car,Self Owned,,9900000.0
+1127,Fully Furnished,East,Bike and Car,Self Owned,,9000000.0
+1128,,,Bike,Self Owned,,3100000.0
+1129,Semi,East,Bike,Self Owned,,7000000.0
+1130,Fully Furnished,South,Bike and Car,Self Owned,,15000000.0
+1131,Semi,northwest,Bike and Car,Self Owned,,18000000.0
+1132,,East,Bike and Car,Self Owned,,6750000.0
+1133,,,Car,Self Owned,,16500000.0
+1134,,,,Self Owned,,11600000.0
+1135,Semi,East,Bike and Car,Self Owned,,29500000.0
+1136,,,Bike and Car,Self Owned,,15000000.0
+1137,Semi,North,Bike and Car,Self Owned,,30000000.0
+1138,,,,Self Owned,,5500000.0
+1139,,,,Self Owned,,28000000.0
+1140,Fully Furnished,East,Car,Self Owned,,21000000.0
+1141,,,Bike and Car,Self Owned,,45000000.0
+1142,,,Car,Self Owned,,4000000.0
+1143,,,Bike,Self Owned,,40000000.0
+1144,,,,Self Owned,,16500000.0
+1145,,,Bike and Car,Self Owned,,11000000.0
+1146,,,Bike,Self Owned,,6000000.0
+1147,,,Bike and Car,Self Owned,,27000000.0
+1148,,,Bike,Self Owned,,11500000.0
+1149,,,,Self Owned,,23000000.0
+1150,,,Bike and Car,Self Owned,,11000000.0
+1151,,,Bike and Car,Self Owned,,9900000.0
+1152,Fully Furnished,East,Bike and Car,Self Owned,,9000000.0
+1153,,,Bike,Self Owned,,3100000.0
+1154,Semi,East,Bike,Self Owned,,7000000.0
+1155,Fully Furnished,South,Bike and Car,Self Owned,,15000000.0
+1156,Semi,northwest,Bike and Car,Self Owned,,18000000.0
+1157,,East,Bike and Car,Self Owned,,6750000.0
+1158,,,Car,Self Owned,,16500000.0
+1159,,,,Self Owned,,11600000.0
+1160,Semi,East,Bike and Car,Self Owned,,29500000.0
+1161,,,Bike and Car,Self Owned,,15000000.0
+1162,Semi,North,Bike and Car,Self Owned,,30000000.0
+1163,,,,Self Owned,,5500000.0
+1164,,,,Self Owned,,28000000.0
+1165,Fully Furnished,East,Car,Self Owned,,21000000.0
+1166,,,Bike and Car,Self Owned,,45000000.0
+1167,,,Car,Self Owned,,4000000.0
+1168,,,Bike,Self Owned,,40000000.0
+1169,,,,Self Owned,,16500000.0
+1170,,,Bike and Car,Self Owned,,11000000.0
+1171,,,Bike,Self Owned,,6000000.0
+1172,,,Bike and Car,Self Owned,,27000000.0
+1173,,,Bike,Self Owned,,11500000.0
+1174,,,,Self Owned,,23000000.0
+1175,,,Bike and Car,Self Owned,,11000000.0
+1176,,,Bike and Car,Self Owned,,9900000.0
+1177,Fully Furnished,East,Bike and Car,Self Owned,,9000000.0
+1178,,,Bike,Self Owned,,3100000.0
+1179,Semi,East,Bike,Self Owned,,7000000.0
+1180,Fully Furnished,South,Bike and Car,Self Owned,,15000000.0
+1181,Semi,northwest,Bike and Car,Self Owned,,18000000.0
+1182,,East,Bike and Car,Self Owned,,6750000.0
+1183,,,Car,Self Owned,,16500000.0
+1184,,,,Self Owned,,11600000.0
+1185,Semi,East,Bike and Car,Self Owned,,29500000.0
+1186,,,Bike and Car,Self Owned,,15000000.0
+1187,Semi,North,Bike and Car,Self Owned,,30000000.0
+1188,,,,Self Owned,,5500000.0
+1189,,,,Self Owned,,28000000.0
+1190,Fully Furnished,East,Car,Self Owned,,21000000.0
+1191,,,Bike and Car,Self Owned,,45000000.0
+1192,,,Car,Self Owned,,4000000.0
+1193,,,Bike,Self Owned,,40000000.0
+1194,,,,Self Owned,,16500000.0
+1195,,,Bike and Car,Self Owned,,11000000.0
+1196,,,Bike,Self Owned,,6000000.0
+1197,,,Bike and Car,Self Owned,,27000000.0
+1198,,,Bike,Self Owned,,11500000.0
+1199,,,,Self Owned,,23000000.0
+1200,,,Bike and Car,Self Owned,,11000000.0
+1201,,,Bike and Car,Self Owned,,9900000.0
+1202,Fully Furnished,East,Bike and Car,Self Owned,,9000000.0
+1203,,,Bike,Self Owned,,3100000.0
+1204,Semi,East,Bike,Self Owned,,7000000.0
+1205,Fully Furnished,South,Bike and Car,Self Owned,,15000000.0
+1206,Semi,northwest,Bike and Car,Self Owned,,18000000.0
+1207,,East,Bike and Car,Self Owned,,6750000.0
+1208,,,Car,Self Owned,,16500000.0
+1209,,,,Self Owned,,11600000.0
+1210,Semi,East,Bike and Car,Self Owned,,29500000.0
+1211,,,Bike and Car,Self Owned,,15000000.0
+1212,Semi,North,Bike and Car,Self Owned,,30000000.0
+1213,,,,Self Owned,,5500000.0
+1214,,,,Self Owned,,28000000.0
+1215,Fully Furnished,East,Car,Self Owned,,21000000.0
+1216,,,Bike and Car,Self Owned,,45000000.0
+1217,,,Car,Self Owned,,4000000.0
+1218,,,Bike,Self Owned,,40000000.0
+1219,,,,Self Owned,,16500000.0
+1220,,,Bike and Car,Self Owned,,11000000.0
+1221,,,Bike,Self Owned,,6000000.0
+1222,,,Bike and Car,Self Owned,,27000000.0
+1223,,,Bike,Self Owned,,11500000.0
+1224,,,,Self Owned,,23000000.0
+1225,,,Bike and Car,Self Owned,,11000000.0
+1226,,,Bike and Car,Self Owned,,9900000.0
+1227,Fully Furnished,East,Bike and Car,Self Owned,,9000000.0
+1228,,,Bike,Self Owned,,3100000.0
+1229,Semi,East,Bike,Self Owned,,7000000.0
+1230,Fully Furnished,South,Bike and Car,Self Owned,,15000000.0
+1231,Semi,northwest,Bike and Car,Self Owned,,18000000.0
+1232,,East,Bike and Car,Self Owned,,6750000.0
+1233,,,Car,Self Owned,,16500000.0
+1234,,,,Self Owned,,11600000.0
+1235,Semi,East,Bike and Car,Self Owned,,29500000.0
+1236,,,Bike and Car,Self Owned,,15000000.0
+1237,Semi,North,Bike and Car,Self Owned,,30000000.0
+1238,,,,Self Owned,,5500000.0
+1239,,,,Self Owned,,28000000.0
+1240,Fully Furnished,East,Car,Self Owned,,21000000.0
+1241,,,Bike and Car,Self Owned,,45000000.0
+1242,,,Car,Self Owned,,4000000.0
+1243,,,Bike,Self Owned,,40000000.0
+1244,,,,Self Owned,,16500000.0
+1245,,,Bike and Car,Self Owned,,11000000.0
+1246,,,Bike,Self Owned,,6000000.0
+1247,,,Bike and Car,Self Owned,,27000000.0
+1248,,,Bike,Self Owned,,11500000.0
+1249,,,,Self Owned,,23000000.0
+1250,,,Bike and Car,Self Owned,,11000000.0
+1251,,,Bike and Car,Self Owned,,9900000.0
+1252,Fully Furnished,East,Bike and Car,Self Owned,,9000000.0
+1253,,,Bike,Self Owned,,3100000.0
+1254,Semi,East,Bike,Self Owned,,7000000.0
+1255,Fully Furnished,South,Bike and Car,Self Owned,,15000000.0
+1256,Semi,northwest,Bike and Car,Self Owned,,18000000.0
+1257,,East,Bike and Car,Self Owned,,6750000.0
+1258,,,Car,Self Owned,,16500000.0
+1259,,,,Self Owned,,11600000.0
+1260,Semi,East,Bike and Car,Self Owned,,29500000.0
+1261,,,Bike and Car,Self Owned,,15000000.0
+1262,Semi,North,Bike and Car,Self Owned,,30000000.0
+1263,,,,Self Owned,,5500000.0
+1264,,,,Self Owned,,28000000.0
+1265,Fully Furnished,East,Car,Self Owned,,21000000.0
+1266,,,Bike and Car,Self Owned,,45000000.0
+1267,,,Car,Self Owned,,4000000.0
+1268,,,Bike,Self Owned,,40000000.0
+1269,,,,Self Owned,,16500000.0
+1270,,,Bike and Car,Self Owned,,11000000.0
+1271,,,Bike,Self Owned,,6000000.0
+1272,,,Bike and Car,Self Owned,,27000000.0
+1273,,,Bike,Self Owned,,11500000.0
+1274,,,,Self Owned,,23000000.0
+1275,,,Bike and Car,Self Owned,,11000000.0
+1276,,,Bike and Car,Self Owned,,9900000.0
+1277,Fully Furnished,East,Bike and Car,Self Owned,,9000000.0
+1278,,,Bike,Self Owned,,3100000.0
+1279,Semi,East,Bike,Self Owned,,7000000.0
+1280,Fully Furnished,South,Bike and Car,Self Owned,,15000000.0
+1281,Semi,northwest,Bike and Car,Self Owned,,18000000.0
+1282,,East,Bike and Car,Self Owned,,6750000.0
+1283,,,Car,Self Owned,,16500000.0
+1284,,,,Self Owned,,11600000.0
+1285,Semi,East,Bike and Car,Self Owned,,29500000.0
+1286,,,Bike and Car,Self Owned,,15000000.0
+1287,Semi,North,Bike and Car,Self Owned,,30000000.0
+1288,,,,Self Owned,,5500000.0
+1289,,,,Self Owned,,28000000.0
+1290,Fully Furnished,East,Car,Self Owned,,21000000.0
+1291,,,Bike and Car,Self Owned,,45000000.0
+1292,,,Car,Self Owned,,4000000.0
+1293,,,Bike,Self Owned,,40000000.0
+1294,,,,Self Owned,,16500000.0
+1295,,,Bike and Car,Self Owned,,11000000.0
+1296,,,Bike,Self Owned,,6000000.0
+1297,,,Bike and Car,Self Owned,,27000000.0
+1298,,,Bike,Self Owned,,11500000.0
+1299,,,,Self Owned,,23000000.0
+1300,,,Bike and Car,Self Owned,,11000000.0
+1301,,,Bike and Car,Self Owned,,9900000.0
+1302,Fully Furnished,East,Bike and Car,Self Owned,,9000000.0
+1303,,,Bike,Self Owned,,3100000.0
+1304,Semi,East,Bike,Self Owned,,7000000.0
+1305,Fully Furnished,South,Bike and Car,Self Owned,,15000000.0
+1306,Semi,northwest,Bike and Car,Self Owned,,18000000.0
+1307,,East,Bike and Car,Self Owned,,6750000.0
+1308,,,Car,Self Owned,,16500000.0
+1309,,,,Self Owned,,11600000.0
+1310,Semi,East,Bike and Car,Self Owned,,29500000.0
+1311,,,Bike and Car,Self Owned,,15000000.0
+1312,Semi,North,Bike and Car,Self Owned,,30000000.0
+1313,,,,Self Owned,,5500000.0
+1314,,,,Self Owned,,28000000.0
+1315,Fully Furnished,East,Car,Self Owned,,21000000.0
+1316,,,Bike and Car,Self Owned,,45000000.0
+1317,,,Car,Self Owned,,4000000.0
+1318,,,Bike,Self Owned,,40000000.0
+1319,,,,Self Owned,,16500000.0
+1320,,,Bike and Car,Self Owned,,11000000.0
+1321,,,Bike,Self Owned,,6000000.0
+1322,,,Bike and Car,Self Owned,,27000000.0
+1323,,,Bike,Self Owned,,11500000.0
+1324,,,,Self Owned,,23000000.0
+1325,,,Bike and Car,Self Owned,,11000000.0
+1326,,,Bike and Car,Self Owned,,9900000.0
+1327,Fully Furnished,East,Bike and Car,Self Owned,,9000000.0
+1328,,,Bike,Self Owned,,3100000.0
+1329,Semi,East,Bike,Self Owned,,7000000.0
+1330,Fully Furnished,South,Bike and Car,Self Owned,,15000000.0
+1331,Semi,northwest,Bike and Car,Self Owned,,18000000.0
+1332,,East,Bike and Car,Self Owned,,6750000.0
+1333,,,Car,Self Owned,,16500000.0
+1334,,,,Self Owned,,11600000.0
+1335,Semi,East,Bike and Car,Self Owned,,29500000.0
+1336,,,Bike and Car,Self Owned,,15000000.0
+1337,Semi,North,Bike and Car,Self Owned,,30000000.0
+1338,,,,Self Owned,,5500000.0
+1339,,,,Self Owned,,28000000.0
+1340,Fully Furnished,East,Car,Self Owned,,21000000.0
+1341,,,Bike and Car,Self Owned,,45000000.0
+1342,,,Car,Self Owned,,4000000.0
+1343,,,Bike,Self Owned,,40000000.0
+1344,,,,Self Owned,,16500000.0
+1345,,,Bike and Car,Self Owned,,11000000.0
+1346,,,Bike,Self Owned,,6000000.0
+1347,,,Bike and Car,Self Owned,,27000000.0
+1348,,,Bike,Self Owned,,11500000.0
+1349,,,,Self Owned,,23000000.0
+1350,,,Bike and Car,Self Owned,,11000000.0
+1351,,,Bike and Car,Self Owned,,9900000.0
+1352,Fully Furnished,East,Bike and Car,Self Owned,,9000000.0
+1353,,,Bike,Self Owned,,3100000.0
+1354,Semi,East,Bike,Self Owned,,7000000.0
+1355,Fully Furnished,South,Bike and Car,Self Owned,,15000000.0
+1356,Semi,northwest,Bike and Car,Self Owned,,18000000.0
+1357,,East,Bike and Car,Self Owned,,6750000.0
+1358,,,Car,Self Owned,,16500000.0
+1359,,,,Self Owned,,11600000.0
+1360,Semi,East,Bike and Car,Self Owned,,29500000.0
+1361,,,Bike and Car,Self Owned,,8500000.0
+1362,,,Bike and Car,Self Owned,,13500000.0
+1363,,,Car,Self Owned,,23500000.0
+1364,,,Bike and Car,Self Owned,,11000000.0
+1365,,,Car,Self Owned,,8900000.0
+1366,,,,Self Owned,,25000000.0
+1367,,,Bike and Car,Self Owned,,5800000.0
+1368,Fully Furnished,East,Bike,Self Owned,,8900000.0
+1369,,,Bike,Self Owned,,13500000.0
+1370,,,Bike,Self Owned,,600000.0
+1371,,,Car,Self Owned,,9900000.0
+1372,Semi,East,Bike,Self Owned,,15000000.0
+1373,,,Bike,Self Owned,,7000000.0
+1374,,,Bike and Car,Self Owned,,12500000.0
+1375,Semi,North,,Self Owned,,5800000.0
+1376,,,Bike and Car,Self Owned,,2000000.0
+1377,,,Bike,Self Owned,,5500000.0
+1378,,,Car,Self Owned,,55000000.0
+1379,,,Bike and Car,Self Owned,,12500000.0
+1380,,,Bike,Self Owned,,
+1381,Fully Furnished,North,Bike,Self Owned,,14000000.0
+1382,Semi,East,,Self Owned,,12500000.0
+1383,,,Bike and Car,Self Owned,,3850000.0
+1384,,North,,Self Owned,,5000000.0
+1385,,,Bike,Self Owned,,5700000.0
+1386,,,Bike and Car,Self Owned,,8500000.0
+1387,,,Bike and Car,Self Owned,,13500000.0
+1388,,,Car,Self Owned,,23500000.0
+1389,,,Bike and Car,Self Owned,,11000000.0
+1390,,,Car,Self Owned,,8900000.0
+1391,,,,Self Owned,,25000000.0
+1392,,,Bike and Car,Self Owned,,5800000.0
+1393,Fully Furnished,East,Bike,Self Owned,,8900000.0
+1394,,,Bike,Self Owned,,13500000.0
+1395,,,Bike,Self Owned,,600000.0
+1396,,,Car,Self Owned,,9900000.0
+1397,Semi,East,Bike,Self Owned,,15000000.0
+1398,,,Bike,Self Owned,,7000000.0
+1399,,,Bike and Car,Self Owned,,12500000.0
+1400,Semi,North,,Self Owned,,5800000.0
+1401,,,Bike and Car,Self Owned,,2000000.0
+1402,,,Bike,Self Owned,,5500000.0
+1403,,,Car,Self Owned,,55000000.0
+1404,,,Bike and Car,Self Owned,,12500000.0
+1405,,,Bike,Self Owned,,
+1406,Fully Furnished,North,Bike,Self Owned,,14000000.0
+1407,Semi,East,,Self Owned,,12500000.0
+1408,,,Bike and Car,Self Owned,,3850000.0
+1409,,North,,Self Owned,,5000000.0
+1410,,,Bike,Self Owned,,5700000.0
+1411,,,Bike and Car,Self Owned,,8500000.0
+1412,,,Bike and Car,Self Owned,,13500000.0
+1413,,,Car,Self Owned,,23500000.0
+1414,,,Bike and Car,Self Owned,,11000000.0
+1415,,,Car,Self Owned,,8900000.0
+1416,,,,Self Owned,,25000000.0
+1417,,,Bike and Car,Self Owned,,5800000.0
+1418,Fully Furnished,East,Bike,Self Owned,,8900000.0
+1419,,,Bike,Self Owned,,13500000.0
+1420,,,Bike,Self Owned,,600000.0
+1421,,,Car,Self Owned,,9900000.0
+1422,Semi,East,Bike,Self Owned,,15000000.0
+1423,,,Bike,Self Owned,,7000000.0
+1424,,,Bike and Car,Self Owned,,12500000.0
+1425,Semi,North,,Self Owned,,5800000.0
+1426,,,Bike and Car,Self Owned,,2000000.0
+1427,,,Bike,Self Owned,,5500000.0
+1428,,,Car,Self Owned,,55000000.0
+1429,,,Bike and Car,Self Owned,,12500000.0
+1430,,,Bike,Self Owned,,
+1431,Fully Furnished,North,Bike,Self Owned,,14000000.0
+1432,Semi,East,,Self Owned,,12500000.0
+1433,,,Bike and Car,Self Owned,,3850000.0
+1434,,North,,Self Owned,,5000000.0
+1435,,,Bike,Self Owned,,5700000.0
+1436,,,Bike and Car,Self Owned,,8500000.0
+1437,,,Bike and Car,Self Owned,,13500000.0
+1438,,,Car,Self Owned,,23500000.0
+1439,,,Bike and Car,Self Owned,,11000000.0
+1440,,,Car,Self Owned,,8900000.0
+1441,,,,Self Owned,,25000000.0
+1442,,,Bike and Car,Self Owned,,5800000.0
+1443,Fully Furnished,East,Bike,Self Owned,,8900000.0
+1444,,,Bike,Self Owned,,13500000.0
+1445,,,Bike,Self Owned,,600000.0
+1446,,,Car,Self Owned,,9900000.0
+1447,Semi,East,Bike,Self Owned,,15000000.0
+1448,,,Bike,Self Owned,,7000000.0
+1449,,,Bike and Car,Self Owned,,12500000.0
+1450,Semi,North,,Self Owned,,5800000.0
+1451,,,Bike and Car,Self Owned,,2000000.0
+1452,,,Bike,Self Owned,,5500000.0
+1453,,,Car,Self Owned,,55000000.0
+1454,,,Bike and Car,Self Owned,,12500000.0
+1455,,,Bike,Self Owned,,
+1456,Fully Furnished,North,Bike,Self Owned,,14000000.0
+1457,Semi,East,,Self Owned,,12500000.0
+1458,,,Bike and Car,Self Owned,,3850000.0
+1459,,North,,Self Owned,,5000000.0
+1460,,,Bike,Self Owned,,5700000.0
+1461,,,Bike and Car,Self Owned,,8500000.0
+1462,,,Bike and Car,Self Owned,,13500000.0
+1463,,,Car,Self Owned,,23500000.0
+1464,,,Bike and Car,Self Owned,,11000000.0
+1465,,,Car,Self Owned,,8900000.0
+1466,,,,Self Owned,,25000000.0
+1467,,,Bike and Car,Self Owned,,5800000.0
+1468,Fully Furnished,East,Bike,Self Owned,,8900000.0
+1469,,,Bike,Self Owned,,13500000.0
+1470,,,Bike,Self Owned,,600000.0
+1471,,,Car,Self Owned,,9900000.0
+1472,Semi,East,Bike,Self Owned,,15000000.0
+1473,,,Bike,Self Owned,,7000000.0
+1474,,,Bike and Car,Self Owned,,12500000.0
+1475,Semi,North,,Self Owned,,5800000.0
+1476,,,Bike and Car,Self Owned,,2000000.0
+1477,,,Bike,Self Owned,,5500000.0
+1478,,,Car,Self Owned,,55000000.0
+1479,,,Bike and Car,Self Owned,,12500000.0
+1480,,,Bike,Self Owned,,
+1481,Fully Furnished,North,Bike,Self Owned,,14000000.0
+1482,Semi,East,,Self Owned,,12500000.0
+1483,,,Bike and Car,Self Owned,,3850000.0
+1484,,North,,Self Owned,,5000000.0
+1485,,,Bike,Self Owned,,5700000.0
+1486,,,Bike and Car,Self Owned,,8500000.0
+1487,,,Bike and Car,Self Owned,,13500000.0
+1488,,,Car,Self Owned,,23500000.0
+1489,,,Bike and Car,Self Owned,,11000000.0
+1490,,,Car,Self Owned,,8900000.0
+1491,,,,Self Owned,,25000000.0
+1492,,,Bike and Car,Self Owned,,5800000.0
+1493,Fully Furnished,East,Bike,Self Owned,,8900000.0
+1494,,,Bike,Self Owned,,13500000.0
+1495,,,Bike,Self Owned,,600000.0
+1496,,,Car,Self Owned,,9900000.0
+1497,Semi,East,Bike,Self Owned,,15000000.0
+1498,,,Bike,Self Owned,,7000000.0
+1499,,,Bike and Car,Self Owned,,12500000.0
+1500,Semi,North,,Self Owned,,5800000.0
+1501,,,Bike and Car,Self Owned,,2000000.0
+1502,,,Bike,Self Owned,,5500000.0
+1503,,,Car,Self Owned,,55000000.0
+1504,,,Bike and Car,Self Owned,,12500000.0
+1505,,,Bike,Self Owned,,
+1506,Fully Furnished,North,Bike,Self Owned,,14000000.0
+1507,Semi,East,,Self Owned,,12500000.0
+1508,,,Bike and Car,Self Owned,,3850000.0
+1509,,North,,Self Owned,,5000000.0
+1510,,,Bike,Self Owned,,5700000.0
+1511,,,Bike and Car,Self Owned,,8500000.0
+1512,,,Bike and Car,Self Owned,,13500000.0
+1513,,,Car,Self Owned,,23500000.0
+1514,,,Bike and Car,Self Owned,,11000000.0
+1515,,,Car,Self Owned,,8900000.0
+1516,,,,Self Owned,,25000000.0
+1517,,,Bike and Car,Self Owned,,5800000.0
+1518,Fully Furnished,East,Bike,Self Owned,,8900000.0
+1519,,,Bike,Self Owned,,13500000.0
+1520,,,Bike,Self Owned,,600000.0
+1521,,,Car,Self Owned,,9900000.0
+1522,Semi,East,Bike,Self Owned,,15000000.0
+1523,,,Bike,Self Owned,,7000000.0
+1524,,,Bike and Car,Self Owned,,12500000.0
+1525,Semi,North,,Self Owned,,5800000.0
+1526,,,Bike and Car,Self Owned,,2000000.0
+1527,,,Bike,Self Owned,,5500000.0
+1528,,,Car,Self Owned,,55000000.0
+1529,,,Bike and Car,Self Owned,,12500000.0
+1530,,,Bike,Self Owned,,
+1531,Fully Furnished,North,Bike,Self Owned,,14000000.0
+1532,Semi,East,,Self Owned,,12500000.0
+1533,,,Bike and Car,Self Owned,,3850000.0
+1534,,North,,Self Owned,,5000000.0
+1535,,,Bike,Self Owned,,5700000.0
+1536,,,Bike and Car,Self Owned,,8500000.0
+1537,,,Bike and Car,Self Owned,,13500000.0
+1538,,,Car,Self Owned,,23500000.0
+1539,,,Bike and Car,Self Owned,,11000000.0
+1540,,,Car,Self Owned,,8900000.0
+1541,,,,Self Owned,,25000000.0
+1542,,,Bike and Car,Self Owned,,5800000.0
+1543,Fully Furnished,East,Bike,Self Owned,,8900000.0
+1544,,,Bike,Self Owned,,13500000.0
+1545,,,Bike,Self Owned,,600000.0
+1546,,,Car,Self Owned,,9900000.0
+1547,Semi,East,Bike,Self Owned,,15000000.0
+1548,,,Bike,Self Owned,,7000000.0
+1549,,,Bike and Car,Self Owned,,12500000.0
+1550,Semi,North,,Self Owned,,5800000.0
+1551,,,Bike and Car,Self Owned,,2000000.0
+1552,,,Bike,Self Owned,,5500000.0
+1553,,,Car,Self Owned,,55000000.0
+1554,,,Bike and Car,Self Owned,,12500000.0
+1555,,,Bike,Self Owned,,
+1556,Fully Furnished,North,Bike,Self Owned,,14000000.0
+1557,Semi,East,,Self Owned,,12500000.0
+1558,,,Bike and Car,Self Owned,,3850000.0
+1559,,North,,Self Owned,,5000000.0
+1560,,,Bike,Self Owned,,5700000.0
+1561,,,Bike and Car,Self Owned,,8500000.0
+1562,,,Bike and Car,Self Owned,,13500000.0
+1563,,,Car,Self Owned,,23500000.0
+1564,,,Bike and Car,Self Owned,,11000000.0
+1565,,,Car,Self Owned,,8900000.0
+1566,,,,Self Owned,,25000000.0
+1567,,,Bike and Car,Self Owned,,5800000.0
+1568,Fully Furnished,East,Bike,Self Owned,,8900000.0
+1569,,,Bike,Self Owned,,13500000.0
+1570,,,Bike,Self Owned,,600000.0
+1571,,,Car,Self Owned,,9900000.0
+1572,Semi,East,Bike,Self Owned,,15000000.0
+1573,,,Bike,Self Owned,,7000000.0
+1574,,,Bike and Car,Self Owned,,12500000.0
+1575,Semi,North,,Self Owned,,5800000.0
+1576,,,Bike and Car,Self Owned,,2000000.0
+1577,,,Bike,Self Owned,,5500000.0
+1578,,,Car,Self Owned,,55000000.0
+1579,,,Bike and Car,Self Owned,,12500000.0
+1580,,,Bike,Self Owned,,
+1581,Fully Furnished,North,Bike,Self Owned,,14000000.0
+1582,Semi,East,,Self Owned,,12500000.0
+1583,,,Bike and Car,Self Owned,,3850000.0
+1584,,North,,Self Owned,,5000000.0
+1585,,,Bike,Self Owned,,5700000.0
+1586,Fully Furnished,West,Bike and Car,Self Owned,,13200000.0
+1587,,West,Car,Self Owned,,100000000.0
+1588,,,Bike and Car,Self Owned,,40000000.0
+1589,,northeast,Bike and Car,Self Owned,,77800000.0
+1590,Fully Furnished,South,Bike and Car,Self Owned,,25500000.0
+1591,,northeast,Bike and Car,Self Owned,,102100000.0
+1592,,northeast,Bike and Car,Self Owned,,94300000.0
+1593,,northeast,Bike and Car,Self Owned,,47000000.0
+1594,,northeast,Bike and Car,Self Owned,,67200000.0
+1595,,northeast,Bike and Car,Self Owned,,65800000.0
+1596,,northeast,Bike and Car,Self Owned,,131600000.0
+1597,,North,Bike and Car,Self Owned,,700000000.0
+1598,,East,Bike and Car,Self Owned,,199100000.0
+1599,,northeast,Bike and Car,Self Owned,,18700000.0
+1600,,northeast,Bike and Car,Self Owned,,55600000.0
+1601,,northeast,Bike and Car,Self Owned,,118600000.0
+1602,,northeast,Bike and Car,Self Owned,,33400000.0
+1603,,northeast,Bike and Car,Self Owned,,23600000.0
+1604,,northeast,Bike and Car,Self Owned,,50400000.0
+1605,,northeast,Bike and Car,Self Owned,,17000000.0
+1606,,East,Bike and Car,Self Owned,,12700000.0
+1607,,northeast,Bike and Car,Self Owned,,140400000.0
+1608,,northeast,Bike and Car,Self Owned,,103400000.0
+1609,,northeast,Bike and Car,Self Owned,,36600000.0
+1610,,northeast,Bike and Car,Self Owned,,48100000.0
+1611,Fully Furnished,West,Bike and Car,Self Owned,,13200000.0
+1612,,West,Car,Self Owned,,100000000.0
+1613,,,Bike and Car,Self Owned,,40000000.0
+1614,,northeast,Bike and Car,Self Owned,,77800000.0
+1615,Fully Furnished,South,Bike and Car,Self Owned,,25500000.0
+1616,,northeast,Bike and Car,Self Owned,,102100000.0
+1617,,northeast,Bike and Car,Self Owned,,94300000.0
+1618,,northeast,Bike and Car,Self Owned,,47000000.0
+1619,,northeast,Bike and Car,Self Owned,,67200000.0
+1620,,northeast,Bike and Car,Self Owned,,65800000.0
+1621,,northeast,Bike and Car,Self Owned,,131600000.0
+1622,,North,Bike and Car,Self Owned,,700000000.0
+1623,,East,Bike and Car,Self Owned,,199100000.0
+1624,,northeast,Bike and Car,Self Owned,,18700000.0
+1625,,northeast,Bike and Car,Self Owned,,55600000.0
+1626,,northeast,Bike and Car,Self Owned,,118600000.0
+1627,,northeast,Bike and Car,Self Owned,,33400000.0
+1628,,northeast,Bike and Car,Self Owned,,23600000.0
+1629,,northeast,Bike and Car,Self Owned,,50400000.0
+1630,,northeast,Bike and Car,Self Owned,,17000000.0
+1631,,East,Bike and Car,Self Owned,,12700000.0
+1632,,northeast,Bike and Car,Self Owned,,140400000.0
+1633,,northeast,Bike and Car,Self Owned,,103400000.0
+1634,,northeast,Bike and Car,Self Owned,,36600000.0
+1635,,northeast,Bike and Car,Self Owned,,48100000.0
+1636,Fully Furnished,West,Bike and Car,Self Owned,,13200000.0
+1637,,West,Car,Self Owned,,100000000.0
+1638,,,Bike and Car,Self Owned,,40000000.0
+1639,,northeast,Bike and Car,Self Owned,,77800000.0
+1640,Fully Furnished,South,Bike and Car,Self Owned,,25500000.0
+1641,,northeast,Bike and Car,Self Owned,,102100000.0
+1642,,northeast,Bike and Car,Self Owned,,94300000.0
+1643,,northeast,Bike and Car,Self Owned,,47000000.0
+1644,,northeast,Bike and Car,Self Owned,,67200000.0
+1645,,northeast,Bike and Car,Self Owned,,65800000.0
+1646,,northeast,Bike and Car,Self Owned,,131600000.0
+1647,,North,Bike and Car,Self Owned,,700000000.0
+1648,,East,Bike and Car,Self Owned,,199100000.0
+1649,,northeast,Bike and Car,Self Owned,,18700000.0
+1650,,northeast,Bike and Car,Self Owned,,55600000.0
+1651,,northeast,Bike and Car,Self Owned,,118600000.0
+1652,,northeast,Bike and Car,Self Owned,,33400000.0
+1653,,northeast,Bike and Car,Self Owned,,23600000.0
+1654,,northeast,Bike and Car,Self Owned,,50400000.0
+1655,,northeast,Bike and Car,Self Owned,,17000000.0
+1656,,East,Bike and Car,Self Owned,,12700000.0
+1657,,northeast,Bike and Car,Self Owned,,140400000.0
+1658,,northeast,Bike and Car,Self Owned,,103400000.0
+1659,,northeast,Bike and Car,Self Owned,,36600000.0
+1660,,northeast,Bike and Car,Self Owned,,48100000.0
+1661,Fully Furnished,West,Bike and Car,Self Owned,,13200000.0
+1662,,West,Car,Self Owned,,100000000.0
+1663,,,Bike and Car,Self Owned,,40000000.0
+1664,,northeast,Bike and Car,Self Owned,,77800000.0
+1665,Fully Furnished,South,Bike and Car,Self Owned,,25500000.0
+1666,,northeast,Bike and Car,Self Owned,,102100000.0
+1667,,northeast,Bike and Car,Self Owned,,94300000.0
+1668,,northeast,Bike and Car,Self Owned,,47000000.0
+1669,,northeast,Bike and Car,Self Owned,,67200000.0
+1670,,northeast,Bike and Car,Self Owned,,65800000.0
+1671,,northeast,Bike and Car,Self Owned,,131600000.0
+1672,,North,Bike and Car,Self Owned,,700000000.0
+1673,,East,Bike and Car,Self Owned,,199100000.0
+1674,,northeast,Bike and Car,Self Owned,,18700000.0
+1675,,northeast,Bike and Car,Self Owned,,55600000.0
+1676,,northeast,Bike and Car,Self Owned,,118600000.0
+1677,,northeast,Bike and Car,Self Owned,,33400000.0
+1678,,northeast,Bike and Car,Self Owned,,23600000.0
+1679,,northeast,Bike and Car,Self Owned,,50400000.0
+1680,,northeast,Bike and Car,Self Owned,,17000000.0
+1681,,East,Bike and Car,Self Owned,,12700000.0
+1682,,northeast,Bike and Car,Self Owned,,140400000.0
+1683,,northeast,Bike and Car,Self Owned,,103400000.0
+1684,,northeast,Bike and Car,Self Owned,,36600000.0
+1685,,northeast,Bike and Car,Self Owned,,48100000.0
+1686,Fully Furnished,West,Bike and Car,Self Owned,,13200000.0
+1687,,West,Car,Self Owned,,100000000.0
+1688,,,Bike and Car,Self Owned,,40000000.0
+1689,,northeast,Bike and Car,Self Owned,,77800000.0
+1690,Fully Furnished,South,Bike and Car,Self Owned,,25500000.0
+1691,,northeast,Bike and Car,Self Owned,,102100000.0
+1692,,northeast,Bike and Car,Self Owned,,94300000.0
+1693,,northeast,Bike and Car,Self Owned,,47000000.0
+1694,,northeast,Bike and Car,Self Owned,,67200000.0
+1695,,northeast,Bike and Car,Self Owned,,65800000.0
+1696,,northeast,Bike and Car,Self Owned,,131600000.0
+1697,,North,Bike and Car,Self Owned,,700000000.0
+1698,,East,Bike and Car,Self Owned,,199100000.0
+1699,,northeast,Bike and Car,Self Owned,,18700000.0
+1700,,northeast,Bike and Car,Self Owned,,55600000.0
+1701,,northeast,Bike and Car,Self Owned,,118600000.0
+1702,,northeast,Bike and Car,Self Owned,,33400000.0
+1703,,northeast,Bike and Car,Self Owned,,23600000.0
+1704,,northeast,Bike and Car,Self Owned,,50400000.0
+1705,,northeast,Bike and Car,Self Owned,,17000000.0
+1706,,East,Bike and Car,Self Owned,,12700000.0
+1707,,northeast,Bike and Car,Self Owned,,140400000.0
+1708,,northeast,Bike and Car,Self Owned,,103400000.0
+1709,,northeast,Bike and Car,Self Owned,,36600000.0
+1710,,northeast,Bike and Car,Self Owned,,48100000.0
+1711,Fully Furnished,West,Bike and Car,Self Owned,,13200000.0
+1712,,West,Car,Self Owned,,100000000.0
+1713,,,Bike and Car,Self Owned,,40000000.0
+1714,,northeast,Bike and Car,Self Owned,,77800000.0
+1715,Fully Furnished,South,Bike and Car,Self Owned,,25500000.0
+1716,,northeast,Bike and Car,Self Owned,,102100000.0
+1717,,northeast,Bike and Car,Self Owned,,94300000.0
+1718,,northeast,Bike and Car,Self Owned,,47000000.0
+1719,,northeast,Bike and Car,Self Owned,,67200000.0
+1720,,northeast,Bike and Car,Self Owned,,65800000.0
+1721,,northeast,Bike and Car,Self Owned,,131600000.0
+1722,,North,Bike and Car,Self Owned,,700000000.0
+1723,,East,Bike and Car,Self Owned,,199100000.0
+1724,,northeast,Bike and Car,Self Owned,,18700000.0
+1725,,northeast,Bike and Car,Self Owned,,55600000.0
+1726,,northeast,Bike and Car,Self Owned,,118600000.0
+1727,,northeast,Bike and Car,Self Owned,,33400000.0
+1728,,northeast,Bike and Car,Self Owned,,23600000.0
+1729,,northeast,Bike and Car,Self Owned,,50400000.0
+1730,,northeast,Bike and Car,Self Owned,,17000000.0
+1731,,East,Bike and Car,Self Owned,,12700000.0
+1732,,northeast,Bike and Car,Self Owned,,140400000.0
+1733,,northeast,Bike and Car,Self Owned,,103400000.0
+1734,,northeast,Bike and Car,Self Owned,,36600000.0
+1735,,northeast,Bike and Car,Self Owned,,48100000.0
+1736,Fully Furnished,West,Bike and Car,Self Owned,,13200000.0
+1737,,West,Car,Self Owned,,100000000.0
+1738,,,Bike and Car,Self Owned,,40000000.0
+1739,,northeast,Bike and Car,Self Owned,,77800000.0
+1740,Fully Furnished,South,Bike and Car,Self Owned,,25500000.0
+1741,,northeast,Bike and Car,Self Owned,,102100000.0
+1742,,northeast,Bike and Car,Self Owned,,94300000.0
+1743,,northeast,Bike and Car,Self Owned,,47000000.0
+1744,,northeast,Bike and Car,Self Owned,,67200000.0
+1745,,northeast,Bike and Car,Self Owned,,65800000.0
+1746,,northeast,Bike and Car,Self Owned,,131600000.0
+1747,,North,Bike and Car,Self Owned,,700000000.0
+1748,,East,Bike and Car,Self Owned,,199100000.0
+1749,,northeast,Bike and Car,Self Owned,,18700000.0
+1750,,northeast,Bike and Car,Self Owned,,55600000.0
+1751,,northeast,Bike and Car,Self Owned,,118600000.0
+1752,,northeast,Bike and Car,Self Owned,,33400000.0
+1753,,northeast,Bike and Car,Self Owned,,23600000.0
+1754,,northeast,Bike and Car,Self Owned,,50400000.0
+1755,,northeast,Bike and Car,Self Owned,,17000000.0
+1756,,East,Bike and Car,Self Owned,,12700000.0
+1757,,northeast,Bike and Car,Self Owned,,140400000.0
+1758,,northeast,Bike and Car,Self Owned,,103400000.0
+1759,,northeast,Bike and Car,Self Owned,,36600000.0
+1760,,northeast,Bike and Car,Self Owned,,48100000.0
+1761,Fully Furnished,West,Bike and Car,Self Owned,,13200000.0
+1762,,West,Car,Self Owned,,100000000.0
+1763,,,Bike and Car,Self Owned,,40000000.0
+1764,,northeast,Bike and Car,Self Owned,,77800000.0
+1765,Fully Furnished,South,Bike and Car,Self Owned,,25500000.0
+1766,,northeast,Bike and Car,Self Owned,,102100000.0
+1767,,northeast,Bike and Car,Self Owned,,94300000.0
+1768,,northeast,Bike and Car,Self Owned,,47000000.0
+1769,,northeast,Bike and Car,Self Owned,,67200000.0
+1770,,northeast,Bike and Car,Self Owned,,65800000.0
+1771,,northeast,Bike and Car,Self Owned,,131600000.0
+1772,,North,Bike and Car,Self Owned,,700000000.0
+1773,,East,Bike and Car,Self Owned,,199100000.0
+1774,,northeast,Bike and Car,Self Owned,,18700000.0
+1775,,northeast,Bike and Car,Self Owned,,55600000.0
+1776,,northeast,Bike and Car,Self Owned,,118600000.0
+1777,,northeast,Bike and Car,Self Owned,,33400000.0
+1778,,northeast,Bike and Car,Self Owned,,23600000.0
+1779,,northeast,Bike and Car,Self Owned,,50400000.0
+1780,,northeast,Bike and Car,Self Owned,,17000000.0
+1781,,East,Bike and Car,Self Owned,,12700000.0
+1782,,northeast,Bike and Car,Self Owned,,140400000.0
+1783,,northeast,Bike and Car,Self Owned,,103400000.0
+1784,,northeast,Bike and Car,Self Owned,,36600000.0
+1785,,northeast,Bike and Car,Self Owned,,48100000.0
+1786,Fully Furnished,West,Bike and Car,Self Owned,,13200000.0
+1787,,West,Car,Self Owned,,100000000.0
+1788,,,Bike and Car,Self Owned,,40000000.0
+1789,,northeast,Bike and Car,Self Owned,,77800000.0
+1790,Fully Furnished,South,Bike and Car,Self Owned,,25500000.0
+1791,,northeast,Bike and Car,Self Owned,,102100000.0
+1792,,northeast,Bike and Car,Self Owned,,94300000.0
+1793,,northeast,Bike and Car,Self Owned,,47000000.0
+1794,,northeast,Bike and Car,Self Owned,,67200000.0
+1795,,northeast,Bike and Car,Self Owned,,65800000.0
+1796,,northeast,Bike and Car,Self Owned,,131600000.0
+1797,,North,Bike and Car,Self Owned,,700000000.0
+1798,,East,Bike and Car,Self Owned,,199100000.0
+1799,,northeast,Bike and Car,Self Owned,,18700000.0
+1800,,northeast,Bike and Car,Self Owned,,55600000.0
+1801,,northeast,Bike and Car,Self Owned,,118600000.0
+1802,,northeast,Bike and Car,Self Owned,,33400000.0
+1803,,northeast,Bike and Car,Self Owned,,23600000.0
+1804,,northeast,Bike and Car,Self Owned,,50400000.0
+1805,,northeast,Bike and Car,Self Owned,,17000000.0
+1806,,East,Bike and Car,Self Owned,,12700000.0
+1807,,northeast,Bike and Car,Self Owned,,140400000.0
+1808,,northeast,Bike and Car,Self Owned,,103400000.0
+1809,,northeast,Bike and Car,Self Owned,,36600000.0
+1810,,northeast,Bike and Car,Self Owned,,48100000.0
+1811,Fully Furnished,West,Bike and Car,Self Owned,,13200000.0
+1812,,West,Car,Self Owned,,100000000.0
+1813,,,Bike and Car,Self Owned,,40000000.0
+1814,,northeast,Bike and Car,Self Owned,,77800000.0
+1815,Fully Furnished,South,Bike and Car,Self Owned,,25500000.0
+1816,,northeast,Bike and Car,Self Owned,,102100000.0
+1817,,northeast,Bike and Car,Self Owned,,94300000.0
+1818,,northeast,Bike and Car,Self Owned,,47000000.0
+1819,,northeast,Bike and Car,Self Owned,,67200000.0
+1820,,northeast,Bike and Car,Self Owned,,65800000.0
+1821,,northeast,Bike and Car,Self Owned,,131600000.0
+1822,,North,Bike and Car,Self Owned,,700000000.0
+1823,,East,Bike and Car,Self Owned,,199100000.0
+1824,,northeast,Bike and Car,Self Owned,,18700000.0
+1825,,northeast,Bike and Car,Self Owned,,55600000.0
+1826,,northeast,Bike and Car,Self Owned,,118600000.0
+1827,,northeast,Bike and Car,Self Owned,,33400000.0
+1828,,northeast,Bike and Car,Self Owned,,23600000.0
+1829,,northeast,Bike and Car,Self Owned,,50400000.0
+1830,,northeast,Bike and Car,Self Owned,,17000000.0
+1831,,East,Bike and Car,Self Owned,,12700000.0
+1832,,northeast,Bike and Car,Self Owned,,140400000.0
+1833,,northeast,Bike and Car,Self Owned,,103400000.0
+1834,,northeast,Bike and Car,Self Owned,,36600000.0
+1835,,northeast,Bike and Car,Self Owned,,48100000.0
+1836,Fully Furnished,West,Bike and Car,Self Owned,,13200000.0
+1837,,West,Car,Self Owned,,100000000.0
+1838,,,Bike and Car,Self Owned,,40000000.0
+1839,,northeast,Bike and Car,Self Owned,,77800000.0
+1840,Fully Furnished,South,Bike and Car,Self Owned,,25500000.0
+1841,,northeast,Bike and Car,Self Owned,,102100000.0
+1842,,northeast,Bike and Car,Self Owned,,94300000.0
+1843,,northeast,Bike and Car,Self Owned,,47000000.0
+1844,,northeast,Bike and Car,Self Owned,,67200000.0
+1845,,northeast,Bike and Car,Self Owned,,65800000.0
+1846,,northeast,Bike and Car,Self Owned,,131600000.0
+1847,,North,Bike and Car,Self Owned,,700000000.0
+1848,,East,Bike and Car,Self Owned,,199100000.0
+1849,,northeast,Bike and Car,Self Owned,,18700000.0
+1850,,northeast,Bike and Car,Self Owned,,55600000.0
+1851,,northeast,Bike and Car,Self Owned,,118600000.0
+1852,,northeast,Bike and Car,Self Owned,,33400000.0
+1853,,northeast,Bike and Car,Self Owned,,23600000.0
+1854,,northeast,Bike and Car,Self Owned,,50400000.0
+1855,,northeast,Bike and Car,Self Owned,,17000000.0
+1856,,East,Bike and Car,Self Owned,,12700000.0
+1857,,northeast,Bike and Car,Self Owned,,140400000.0
+1858,,northeast,Bike and Car,Self Owned,,103400000.0
+1859,,northeast,Bike and Car,Self Owned,,36600000.0
+1860,,northeast,Bike and Car,Self Owned,,48100000.0
+1861,Fully Furnished,West,Bike and Car,Self Owned,,13200000.0
+1862,,West,Car,Self Owned,,100000000.0
+1863,,,Bike and Car,Self Owned,,40000000.0
+1864,,northeast,Bike and Car,Self Owned,,77800000.0
+1865,Fully Furnished,South,Bike and Car,Self Owned,,25500000.0
+1866,,northeast,Bike and Car,Self Owned,,102100000.0
+1867,,northeast,Bike and Car,Self Owned,,94300000.0
+1868,,northeast,Bike and Car,Self Owned,,47000000.0
+1869,,northeast,Bike and Car,Self Owned,,67200000.0
+1870,,northeast,Bike and Car,Self Owned,,65800000.0
+1871,,northeast,Bike and Car,Self Owned,,131600000.0
+1872,,North,Bike and Car,Self Owned,,700000000.0
+1873,,East,Bike and Car,Self Owned,,199100000.0
+1874,,northeast,Bike and Car,Self Owned,,18700000.0
+1875,,northeast,Bike and Car,Self Owned,,55600000.0
+1876,,northeast,Bike and Car,Self Owned,,118600000.0
+1877,,northeast,Bike and Car,Self Owned,,33400000.0
+1878,,northeast,Bike and Car,Self Owned,,23600000.0
+1879,,northeast,Bike and Car,Self Owned,,50400000.0
+1880,,northeast,Bike and Car,Self Owned,,17000000.0
+1881,,East,Bike and Car,Self Owned,,12700000.0
+1882,,northeast,Bike and Car,Self Owned,,140400000.0
+1883,,northeast,Bike and Car,Self Owned,,103400000.0
+1884,,northeast,Bike and Car,Self Owned,,36600000.0
+1885,,northeast,Bike and Car,Self Owned,,48100000.0
+1886,Fully Furnished,West,Bike and Car,Self Owned,,13200000.0
+1887,,West,Car,Self Owned,,100000000.0
+1888,,,Bike and Car,Self Owned,,40000000.0
+1889,,northeast,Bike and Car,Self Owned,,77800000.0
+1890,Fully Furnished,South,Bike and Car,Self Owned,,25500000.0
+1891,,northeast,Bike and Car,Self Owned,,102100000.0
+1892,,northeast,Bike and Car,Self Owned,,94300000.0
+1893,,northeast,Bike and Car,Self Owned,,47000000.0
+1894,,northeast,Bike and Car,Self Owned,,67200000.0
+1895,,northeast,Bike and Car,Self Owned,,65800000.0
+1896,,northeast,Bike and Car,Self Owned,,131600000.0
+1897,,North,Bike and Car,Self Owned,,700000000.0
+1898,,East,Bike and Car,Self Owned,,199100000.0
+1899,,northeast,Bike and Car,Self Owned,,18700000.0
+1900,,northeast,Bike and Car,Self Owned,,55600000.0
+1901,,northeast,Bike and Car,Self Owned,,118600000.0
+1902,,northeast,Bike and Car,Self Owned,,33400000.0
+1903,,northeast,Bike and Car,Self Owned,,23600000.0
+1904,,northeast,Bike and Car,Self Owned,,50400000.0
+1905,,northeast,Bike and Car,Self Owned,,17000000.0
+1906,,East,Bike and Car,Self Owned,,12700000.0
+1907,,northeast,Bike and Car,Self Owned,,140400000.0
+1908,,northeast,Bike and Car,Self Owned,,103400000.0
+1909,,northeast,Bike and Car,Self Owned,,36600000.0
+1910,,northeast,Bike and Car,Self Owned,,48100000.0
+1911,Fully Furnished,West,Bike and Car,Self Owned,,13200000.0
+1912,,West,Car,Self Owned,,100000000.0
+1913,,,Bike and Car,Self Owned,,40000000.0
+1914,,northeast,Bike and Car,Self Owned,,77800000.0
+1915,Fully Furnished,South,Bike and Car,Self Owned,,25500000.0
+1916,,northeast,Bike and Car,Self Owned,,102100000.0
+1917,,northeast,Bike and Car,Self Owned,,94300000.0
+1918,,northeast,Bike and Car,Self Owned,,47000000.0
+1919,,northeast,Bike and Car,Self Owned,,67200000.0
+1920,,northeast,Bike and Car,Self Owned,,65800000.0
+1921,,northeast,Bike and Car,Self Owned,,131600000.0
+1922,,North,Bike and Car,Self Owned,,700000000.0
+1923,,East,Bike and Car,Self Owned,,199100000.0
+1924,,northeast,Bike and Car,Self Owned,,18700000.0
+1925,,northeast,Bike and Car,Self Owned,,55600000.0
+1926,,northeast,Bike and Car,Self Owned,,118600000.0
+1927,,northeast,Bike and Car,Self Owned,,33400000.0
+1928,,northeast,Bike and Car,Self Owned,,23600000.0
+1929,,northeast,Bike and Car,Self Owned,,50400000.0
+1930,,northeast,Bike and Car,Self Owned,,17000000.0
+1931,,East,Bike and Car,Self Owned,,12700000.0
+1932,,northeast,Bike and Car,Self Owned,,140400000.0
+1933,,northeast,Bike and Car,Self Owned,,103400000.0
+1934,,northeast,Bike and Car,Self Owned,,36600000.0
+1935,,northeast,Bike and Car,Self Owned,,48100000.0
+1936,Fully Furnished,West,Bike and Car,Self Owned,,13200000.0
+1937,,West,Car,Self Owned,,100000000.0
+1938,,,Bike and Car,Self Owned,,40000000.0
+1939,,northeast,Bike and Car,Self Owned,,77800000.0
+1940,Fully Furnished,South,Bike and Car,Self Owned,,25500000.0
+1941,,northeast,Bike and Car,Self Owned,,102100000.0
+1942,,northeast,Bike and Car,Self Owned,,94300000.0
+1943,,northeast,Bike and Car,Self Owned,,47000000.0
+1944,,northeast,Bike and Car,Self Owned,,67200000.0
+1945,,northeast,Bike and Car,Self Owned,,65800000.0
+1946,,northeast,Bike and Car,Self Owned,,131600000.0
+1947,,North,Bike and Car,Self Owned,,700000000.0
+1948,,East,Bike and Car,Self Owned,,199100000.0
+1949,,northeast,Bike and Car,Self Owned,,18700000.0
+1950,,northeast,Bike and Car,Self Owned,,55600000.0
+1951,,northeast,Bike and Car,Self Owned,,118600000.0
+1952,,northeast,Bike and Car,Self Owned,,33400000.0
+1953,,northeast,Bike and Car,Self Owned,,23600000.0
+1954,,northeast,Bike and Car,Self Owned,,50400000.0
+1955,,northeast,Bike and Car,Self Owned,,17000000.0
+1956,,East,Bike and Car,Self Owned,,12700000.0
+1957,,northeast,Bike and Car,Self Owned,,140400000.0
+1958,,northeast,Bike and Car,Self Owned,,103400000.0
+1959,,northeast,Bike and Car,Self Owned,,36600000.0
+1960,,northeast,Bike and Car,Self Owned,,48100000.0
+1961,Semi,East,Car,Self Owned,,34700000.0
+1962,,,Bike and Car,Self Owned,,16000000.0
+1963,,,Car,Self Owned,,11300000.0
+1964,,,Bike and Car,Self Owned,,
+1965,,,Bike and Car,Self Owned,,11000000.0
+1966,,,Car,Self Owned,,15000000.0
+1967,,,Bike and Car,Self Owned,,
+1968,,,Bike and Car,Self Owned,,11200000.0
+1969,Fully Furnished,East,Bike and Car,Self Owned,,21000000.0
+1970,,,Bike and Car,Self Owned,,14800000.0
+1971,,,Bike and Car,Self Owned,,4000000.0
+1972,Semi,northwest,Car,Self Owned,,35000000.0
+1973,,,Bike and Car,Self Owned,,12000000.0
+1974,,,Bike and Car,Self Owned,,13000000.0
+1975,,,Bike and Car,Self Owned,,14500000.0
+1976,Semi,southwest,Car,Self Owned,,17000000.0
+1977,,,Car,Self Owned,,15500000.0
+1978,,,Car,Self Owned,,11000000.0
+1979,,,Car,Self Owned,,24000000.0
+1980,,,Bike and Car,Self Owned,,28500000.0
+1981,,,Car,Self Owned,,25000000.0
+1982,,,Car,Self Owned,,43000000.0
+1983,,,Bike and Car,Self Owned,,15000000.0
+1984,,,Bike and Car,Self Owned,,14500000.0
+1985,,,Bike and Car,Self Owned,,11000000.0
+1986,Semi,East,Car,Self Owned,,34700000.0
+1987,,,Bike and Car,Self Owned,,16000000.0
+1988,,,Car,Self Owned,,11300000.0
+1989,,,Bike and Car,Self Owned,,
+1990,,,Bike and Car,Self Owned,,11000000.0
+1991,,,Car,Self Owned,,15000000.0
+1992,,,Bike and Car,Self Owned,,
+1993,,,Bike and Car,Self Owned,,11200000.0
+1994,Fully Furnished,East,Bike and Car,Self Owned,,21000000.0
+1995,,,Bike and Car,Self Owned,,14800000.0
+1996,,,Bike and Car,Self Owned,,4000000.0
+1997,Semi,northwest,Car,Self Owned,,35000000.0
+1998,,,Bike and Car,Self Owned,,12000000.0
+1999,,,Bike and Car,Self Owned,,13000000.0
+2000,,,Bike and Car,Self Owned,,14500000.0
+2001,Semi,southwest,Car,Self Owned,,17000000.0
+2002,,,Car,Self Owned,,15500000.0
+2003,,,Car,Self Owned,,11000000.0
+2004,,,Car,Self Owned,,24000000.0
+2005,,,Bike and Car,Self Owned,,28500000.0
+2006,,,Car,Self Owned,,25000000.0
+2007,,,Car,Self Owned,,43000000.0
+2008,,,Bike and Car,Self Owned,,15000000.0
+2009,,,Bike and Car,Self Owned,,14500000.0
+2010,,,Bike and Car,Self Owned,,11000000.0
+2011,Semi,East,Car,Self Owned,,34700000.0
+2012,,,Bike and Car,Self Owned,,16000000.0
+2013,,,Car,Self Owned,,11300000.0
+2014,,,Bike and Car,Self Owned,,
+2015,,,Bike and Car,Self Owned,,11000000.0
+2016,,,Car,Self Owned,,15000000.0
+2017,,,Bike and Car,Self Owned,,
+2018,,,Bike and Car,Self Owned,,11200000.0
+2019,Fully Furnished,East,Bike and Car,Self Owned,,21000000.0
+2020,,,Bike and Car,Self Owned,,14800000.0
+2021,,,Bike and Car,Self Owned,,4000000.0
+2022,Semi,northwest,Car,Self Owned,,35000000.0
+2023,,,Bike and Car,Self Owned,,12000000.0
+2024,,,Bike and Car,Self Owned,,13000000.0
+2025,,,Bike and Car,Self Owned,,14500000.0
+2026,Semi,southwest,Car,Self Owned,,17000000.0
+2027,,,Car,Self Owned,,15500000.0
+2028,,,Car,Self Owned,,11000000.0
+2029,,,Car,Self Owned,,24000000.0
+2030,,,Bike and Car,Self Owned,,28500000.0
+2031,,,Car,Self Owned,,25000000.0
+2032,,,Car,Self Owned,,43000000.0
+2033,,,Bike and Car,Self Owned,,15000000.0
+2034,,,Bike and Car,Self Owned,,14500000.0
+2035,,,Bike and Car,Self Owned,,11000000.0
+2036,Semi,East,Car,Self Owned,,34700000.0
+2037,,,Bike and Car,Self Owned,,16000000.0
+2038,,,Car,Self Owned,,11300000.0
+2039,,,Bike and Car,Self Owned,,
+2040,,,Bike and Car,Self Owned,,11000000.0
+2041,,,Car,Self Owned,,15000000.0
+2042,,,Bike and Car,Self Owned,,
+2043,,,Bike and Car,Self Owned,,11200000.0
+2044,Fully Furnished,East,Bike and Car,Self Owned,,21000000.0
+2045,,,Bike and Car,Self Owned,,14800000.0
+2046,,,Bike and Car,Self Owned,,4000000.0
+2047,Semi,northwest,Car,Self Owned,,35000000.0
+2048,,,Bike and Car,Self Owned,,12000000.0
+2049,,,Bike and Car,Self Owned,,13000000.0
+2050,,,Bike and Car,Self Owned,,14500000.0
+2051,Semi,southwest,Car,Self Owned,,17000000.0
+2052,,,Car,Self Owned,,15500000.0
+2053,,,Car,Self Owned,,11000000.0
+2054,,,Car,Self Owned,,24000000.0
+2055,,,Bike and Car,Self Owned,,28500000.0
+2056,,,Car,Self Owned,,25000000.0
+2057,,,Car,Self Owned,,43000000.0
+2058,,,Bike and Car,Self Owned,,15000000.0
+2059,,,Bike and Car,Self Owned,,14500000.0
+2060,,,Bike and Car,Self Owned,,11000000.0
+2061,Semi,East,Car,Self Owned,,34700000.0
+2062,,,Bike and Car,Self Owned,,16000000.0
+2063,,,Car,Self Owned,,11300000.0
+2064,,,Bike and Car,Self Owned,,
+2065,,,Bike and Car,Self Owned,,11000000.0
+2066,,,Car,Self Owned,,15000000.0
+2067,,,Bike and Car,Self Owned,,
+2068,,,Bike and Car,Self Owned,,11200000.0
+2069,Fully Furnished,East,Bike and Car,Self Owned,,21000000.0
+2070,,,Bike and Car,Self Owned,,14800000.0
+2071,,,Bike and Car,Self Owned,,4000000.0
+2072,Semi,northwest,Car,Self Owned,,35000000.0
+2073,,,Bike and Car,Self Owned,,12000000.0
+2074,,,Bike and Car,Self Owned,,13000000.0
+2075,,,Bike and Car,Self Owned,,14500000.0
+2076,Semi,southwest,Car,Self Owned,,17000000.0
+2077,,,Car,Self Owned,,15500000.0
+2078,,,Car,Self Owned,,11000000.0
+2079,,,Car,Self Owned,,24000000.0
+2080,,,Bike and Car,Self Owned,,28500000.0
+2081,,,Car,Self Owned,,25000000.0
+2082,,,Car,Self Owned,,43000000.0
+2083,,,Bike and Car,Self Owned,,15000000.0
+2084,,,Bike and Car,Self Owned,,14500000.0
+2085,,,Bike and Car,Self Owned,,11000000.0
+2086,Semi,East,Car,Self Owned,,34700000.0
+2087,,,Bike and Car,Self Owned,,16000000.0
+2088,,,Car,Self Owned,,11300000.0
+2089,,,Bike and Car,Self Owned,,
+2090,,,Bike and Car,Self Owned,,11000000.0
+2091,,,Car,Self Owned,,15000000.0
+2092,,,Bike and Car,Self Owned,,
+2093,,,Bike and Car,Self Owned,,11200000.0
+2094,Fully Furnished,East,Bike and Car,Self Owned,,21000000.0
+2095,,,Bike and Car,Self Owned,,14800000.0
+2096,,,Bike and Car,Self Owned,,4000000.0
+2097,Semi,northwest,Car,Self Owned,,35000000.0
+2098,,,Bike and Car,Self Owned,,12000000.0
+2099,,,Bike and Car,Self Owned,,13000000.0
+2100,,,Bike and Car,Self Owned,,14500000.0
+2101,Semi,southwest,Car,Self Owned,,17000000.0
+2102,,,Car,Self Owned,,15500000.0
+2103,,,Car,Self Owned,,11000000.0
+2104,,,Car,Self Owned,,24000000.0
+2105,,,Bike and Car,Self Owned,,28500000.0
+2106,,,Car,Self Owned,,25000000.0
+2107,,,Car,Self Owned,,43000000.0
+2108,,,Bike and Car,Self Owned,,15000000.0
+2109,,,Bike and Car,Self Owned,,14500000.0
+2110,,,Bike and Car,Self Owned,,11000000.0
+2111,Semi,East,Car,Self Owned,,34700000.0
+2112,,,Bike and Car,Self Owned,,16000000.0
+2113,,,Car,Self Owned,,11300000.0
+2114,,,Bike and Car,Self Owned,,
+2115,,,Bike and Car,Self Owned,,11000000.0
+2116,,,Car,Self Owned,,15000000.0
+2117,,,Bike and Car,Self Owned,,
+2118,,,Bike and Car,Self Owned,,11200000.0
+2119,Fully Furnished,East,Bike and Car,Self Owned,,21000000.0
+2120,,,Bike and Car,Self Owned,,14800000.0
+2121,,,Bike and Car,Self Owned,,4000000.0
+2122,Semi,northwest,Car,Self Owned,,35000000.0
+2123,,,Bike and Car,Self Owned,,12000000.0
+2124,,,Bike and Car,Self Owned,,13000000.0
+2125,,,Bike and Car,Self Owned,,14500000.0
+2126,Semi,southwest,Car,Self Owned,,17000000.0
+2127,,,Car,Self Owned,,15500000.0
+2128,,,Car,Self Owned,,11000000.0
+2129,,,Car,Self Owned,,24000000.0
+2130,,,Bike and Car,Self Owned,,28500000.0
+2131,,,Car,Self Owned,,25000000.0
+2132,,,Car,Self Owned,,43000000.0
+2133,,,Bike and Car,Self Owned,,15000000.0
+2134,,,Bike and Car,Self Owned,,14500000.0
+2135,,,Bike and Car,Self Owned,,11000000.0
+2136,,,Bike,Self Owned,,1290000.0
+2137,,,,Self Owned,,2500000.0
+2138,Semi,East,Car,Self Owned,,3500000.0
+2139,,,,Self Owned,,2600000.0
+2140,,West,,Self Owned,,700000.0
+2141,,,Car,Self Owned,,3500000.0
+2142,Fully Furnished,South,Bike and Car,Self Owned,,15000000.0
+2143,Fully Furnished,southwest,Car,Self Owned,,15000000.0
+2144,,,Bike and Car,Self Owned,,2500000.0
+2145,,,Car,Self Owned,,13000000.0
+2146,,,Car,Self Owned,,6000000.0
+2147,Semi,northeast,Bike and Car,Self Owned,,2800000.0
+2148,,southeast,Car,Self Owned,,5000000.0
+2149,Semi,East,Bike and Car,Self Owned,,3500000.0
+2150,,,Bike and Car,Self Owned,,15000000.0
+2151,,,,Self Owned,,7000000.0
+2152,,,Bike and Car,Self Owned,,8700000.0
+2153,,,Bike,Self Owned,,2500000.0
+2154,,,,Self Owned,,2400000.0
+2155,,,Bike and Car,Self Owned,,8500000.0
+2156,,,Bike and Car,Self Owned,,7500000.0
+2157,,,,Self Owned,,1600000.0
+2158,,,,Self Owned,,3700000.0
+2159,,,Bike and Car,Self Owned,,2000000.0
+2160,,,Bike and Car,Self Owned,,40000000.0
+2161,,,Bike,Self Owned,,1290000.0
+2162,,,,Self Owned,,2500000.0
+2163,Semi,East,Car,Self Owned,,3500000.0
+2164,,,,Self Owned,,2600000.0
+2165,,West,,Self Owned,,700000.0
+2166,,,Car,Self Owned,,3500000.0
+2167,Fully Furnished,South,Bike and Car,Self Owned,,15000000.0
+2168,Fully Furnished,southwest,Car,Self Owned,,15000000.0
+2169,,,Bike and Car,Self Owned,,2500000.0
+2170,,,Car,Self Owned,,13000000.0
+2171,,,Car,Self Owned,,6000000.0
+2172,Semi,northeast,Bike and Car,Self Owned,,2800000.0
+2173,,southeast,Car,Self Owned,,5000000.0
+2174,Semi,East,Bike and Car,Self Owned,,3500000.0
+2175,,,Bike and Car,Self Owned,,15000000.0
+2176,,,,Self Owned,,7000000.0
+2177,,,Bike and Car,Self Owned,,8700000.0
+2178,,,Bike,Self Owned,,2500000.0
+2179,,,,Self Owned,,2400000.0
+2180,,,Bike and Car,Self Owned,,8500000.0
+2181,,,Bike and Car,Self Owned,,7500000.0
+2182,,,,Self Owned,,1600000.0
+2183,,,,Self Owned,,3700000.0
+2184,,,Bike and Car,Self Owned,,2000000.0
+2185,,,Bike and Car,Self Owned,,40000000.0
+2186,,,Bike,Self Owned,,1290000.0
+2187,,,,Self Owned,,2500000.0
+2188,Semi,East,Car,Self Owned,,3500000.0
+2189,,,,Self Owned,,2600000.0
+2190,,West,,Self Owned,,700000.0
+2191,,,Car,Self Owned,,3500000.0
+2192,Fully Furnished,South,Bike and Car,Self Owned,,15000000.0
+2193,Fully Furnished,southwest,Car,Self Owned,,15000000.0
+2194,,,Bike and Car,Self Owned,,2500000.0
+2195,,,Car,Self Owned,,13000000.0
+2196,,,Car,Self Owned,,6000000.0
+2197,Semi,northeast,Bike and Car,Self Owned,,2800000.0
+2198,,southeast,Car,Self Owned,,5000000.0
+2199,Semi,East,Bike and Car,Self Owned,,3500000.0
+2200,,,Bike and Car,Self Owned,,15000000.0
+2201,,,,Self Owned,,7000000.0
+2202,,,Bike and Car,Self Owned,,8700000.0
+2203,,,Bike,Self Owned,,2500000.0
+2204,,,,Self Owned,,2400000.0
+2205,,,Bike and Car,Self Owned,,8500000.0
+2206,,,Bike and Car,Self Owned,,7500000.0
+2207,,,,Self Owned,,1600000.0
+2208,,,,Self Owned,,3700000.0
+2209,,,Bike and Car,Self Owned,,2000000.0
+2210,,,Bike and Car,Self Owned,,40000000.0
+2211,,,Bike,Self Owned,,1290000.0
+2212,,,,Self Owned,,2500000.0
+2213,Semi,East,Car,Self Owned,,3500000.0
+2214,,,,Self Owned,,2600000.0
+2215,,West,,Self Owned,,700000.0
+2216,,,Car,Self Owned,,3500000.0
+2217,Fully Furnished,South,Bike and Car,Self Owned,,15000000.0
+2218,Fully Furnished,southwest,Car,Self Owned,,15000000.0
+2219,,,Bike and Car,Self Owned,,2500000.0
+2220,,,Car,Self Owned,,13000000.0
+2221,,,Car,Self Owned,,6000000.0
+2222,Semi,northeast,Bike and Car,Self Owned,,2800000.0
+2223,,southeast,Car,Self Owned,,5000000.0
+2224,Semi,East,Bike and Car,Self Owned,,3500000.0
+2225,,,Bike and Car,Self Owned,,15000000.0
+2226,,,,Self Owned,,7000000.0
+2227,,,Bike and Car,Self Owned,,8700000.0
+2228,,,Bike,Self Owned,,2500000.0
+2229,,,,Self Owned,,2400000.0
+2230,,,Bike and Car,Self Owned,,8500000.0
+2231,,,Bike and Car,Self Owned,,7500000.0
+2232,,,,Self Owned,,1600000.0
+2233,,,,Self Owned,,3700000.0
+2234,,,Bike and Car,Self Owned,,2000000.0
+2235,,,Bike and Car,Self Owned,,40000000.0
+2236,,,Bike,Self Owned,,1290000.0
+2237,,,,Self Owned,,2500000.0
+2238,Semi,East,Car,Self Owned,,3500000.0
+2239,,,,Self Owned,,2600000.0
+2240,,West,,Self Owned,,700000.0
+2241,,,Car,Self Owned,,3500000.0
+2242,Fully Furnished,South,Bike and Car,Self Owned,,15000000.0
+2243,Fully Furnished,southwest,Car,Self Owned,,15000000.0
+2244,,,Bike and Car,Self Owned,,2500000.0
+2245,,,Car,Self Owned,,13000000.0
+2246,,,Car,Self Owned,,6000000.0
+2247,Semi,northeast,Bike and Car,Self Owned,,2800000.0
+2248,,southeast,Car,Self Owned,,5000000.0
+2249,Semi,East,Bike and Car,Self Owned,,3500000.0
+2250,,,Bike and Car,Self Owned,,15000000.0
+2251,,,,Self Owned,,7000000.0
+2252,,,Bike and Car,Self Owned,,8700000.0
+2253,,,Bike,Self Owned,,2500000.0
+2254,,,,Self Owned,,2400000.0
+2255,,,Bike and Car,Self Owned,,8500000.0
+2256,,,Bike and Car,Self Owned,,7500000.0
+2257,,,,Self Owned,,1600000.0
+2258,,,,Self Owned,,3700000.0
+2259,,,Bike and Car,Self Owned,,2000000.0
+2260,,,Bike and Car,Self Owned,,40000000.0
+2261,,,Bike,Self Owned,,1290000.0
+2262,,,,Self Owned,,2500000.0
+2263,Semi,East,Car,Self Owned,,3500000.0
+2264,,,,Self Owned,,2600000.0
+2265,,West,,Self Owned,,700000.0
+2266,,,Car,Self Owned,,3500000.0
+2267,Fully Furnished,South,Bike and Car,Self Owned,,15000000.0
+2268,Fully Furnished,southwest,Car,Self Owned,,15000000.0
+2269,,,Bike and Car,Self Owned,,2500000.0
+2270,,,Car,Self Owned,,13000000.0
+2271,,,Car,Self Owned,,6000000.0
+2272,Semi,northeast,Bike and Car,Self Owned,,2800000.0
+2273,,southeast,Car,Self Owned,,5000000.0
+2274,Semi,East,Bike and Car,Self Owned,,3500000.0
+2275,,,Bike and Car,Self Owned,,15000000.0
+2276,,,,Self Owned,,7000000.0
+2277,,,Bike and Car,Self Owned,,8700000.0
+2278,,,Bike,Self Owned,,2500000.0
+2279,,,,Self Owned,,2400000.0
+2280,,,Bike and Car,Self Owned,,8500000.0
+2281,,,Bike and Car,Self Owned,,7500000.0
+2282,,,,Self Owned,,1600000.0
+2283,,,,Self Owned,,3700000.0
+2284,,,Bike and Car,Self Owned,,2000000.0
+2285,,,Bike and Car,Self Owned,,40000000.0
+2286,,,Bike,Self Owned,,1290000.0
+2287,,,,Self Owned,,2500000.0
+2288,Semi,East,Car,Self Owned,,3500000.0
+2289,,,,Self Owned,,2600000.0
+2290,,West,,Self Owned,,700000.0
+2291,,,Car,Self Owned,,3500000.0
+2292,Fully Furnished,South,Bike and Car,Self Owned,,15000000.0
+2293,Fully Furnished,southwest,Car,Self Owned,,15000000.0
+2294,,,Bike and Car,Self Owned,,2500000.0
+2295,,,Car,Self Owned,,13000000.0
+2296,,,Car,Self Owned,,6000000.0
+2297,Semi,northeast,Bike and Car,Self Owned,,2800000.0
+2298,,southeast,Car,Self Owned,,5000000.0
+2299,Semi,East,Bike and Car,Self Owned,,3500000.0
+2300,,,Bike and Car,Self Owned,,15000000.0
+2301,,,,Self Owned,,7000000.0
+2302,,,Bike and Car,Self Owned,,8700000.0
+2303,,,Bike,Self Owned,,2500000.0
+2304,,,,Self Owned,,2400000.0
+2305,,,Bike and Car,Self Owned,,8500000.0
+2306,,,Bike and Car,Self Owned,,7500000.0
+2307,,,,Self Owned,,1600000.0
+2308,,,,Self Owned,,3700000.0
+2309,,,Bike and Car,Self Owned,,2000000.0
+2310,,,Bike and Car,Self Owned,,40000000.0
+2311,,,,Self Owned,,4800000.0
+2312,,,Bike and Car,Self Owned,,26000000.0
+2313,,,Bike,Self Owned,,15000000.0
+2314,,,Bike,Self Owned,,3700000.0
+2315,,,Bike,Self Owned,,2200000.0
+2316,,,,Self Owned,,3500000.0
+2317,,,Bike and Car,Self Owned,,4200000.0
+2318,,,,Self Owned,,2200000.0
+2319,,,,Self Owned,,8000000.0
+2320,,,,Self Owned,,3200000.0
+2321,,,Bike and Car,Self Owned,,5000000.0
+2322,,,Car,Self Owned,,1800000.0
+2323,,,Bike and Car,Self Owned,,1600000.0
+2324,,North,Car,Self Owned,,5400000.0
+2325,,,Bike and Car,Self Owned,,3500000.0
+2326,,,Bike and Car,Self Owned,,15000000.0
+2327,,,Bike and Car,Self Owned,,2800000.0
+2328,,,Bike and Car,Self Owned,,8200000.0
+2329,,,Car,Self Owned,,16500000.0
+2330,,,Bike and Car,Self Owned,,3900000.0
+2331,,,Bike and Car,Self Owned,,7000000.0
+2332,,,Bike and Car,Self Owned,,7000000.0
+2333,,,Bike and Car,Self Owned,,13500000.0
+2334,,,Bike and Car,Self Owned,,26000000.0
+2335,,,,Self Owned,,11000000.0
+2336,,,,Self Owned,,4800000.0
+2337,,,Bike and Car,Self Owned,,26000000.0
+2338,,,Bike,Self Owned,,15000000.0
+2339,,,Bike,Self Owned,,3700000.0
+2340,,,Bike,Self Owned,,2200000.0
+2341,,,,Self Owned,,3500000.0
+2342,,,Bike and Car,Self Owned,,4200000.0
+2343,,,,Self Owned,,2200000.0
+2344,,,,Self Owned,,8000000.0
+2345,,,,Self Owned,,3200000.0
+2346,,,Bike and Car,Self Owned,,5000000.0
+2347,,,Car,Self Owned,,1800000.0
+2348,,,Bike and Car,Self Owned,,1600000.0
+2349,,North,Car,Self Owned,,5400000.0
+2350,,,Bike and Car,Self Owned,,3500000.0
+2351,,,Bike and Car,Self Owned,,15000000.0
+2352,,,Bike and Car,Self Owned,,2800000.0
+2353,,,Bike and Car,Self Owned,,8200000.0
+2354,,,Car,Self Owned,,16500000.0
+2355,,,Bike and Car,Self Owned,,3900000.0
+2356,,,Bike and Car,Self Owned,,7000000.0
+2357,,,Bike and Car,Self Owned,,7000000.0
+2358,,,Bike and Car,Self Owned,,13500000.0
+2359,,,Bike and Car,Self Owned,,26000000.0
+2360,,,,Self Owned,,11000000.0
+2361,,,,Self Owned,,4800000.0
+2362,,,Bike and Car,Self Owned,,26000000.0
+2363,,,Bike,Self Owned,,15000000.0
+2364,,,Bike,Self Owned,,3700000.0
+2365,,,Bike,Self Owned,,2200000.0
+2366,,,,Self Owned,,3500000.0
+2367,,,Bike and Car,Self Owned,,4200000.0
+2368,,,,Self Owned,,2200000.0
+2369,,,,Self Owned,,8000000.0
+2370,,,,Self Owned,,3200000.0
+2371,,,Bike and Car,Self Owned,,5000000.0
+2372,,,Car,Self Owned,,1800000.0
+2373,,,Bike and Car,Self Owned,,1600000.0
+2374,,North,Car,Self Owned,,5400000.0
+2375,,,Bike and Car,Self Owned,,3500000.0
+2376,,,Bike and Car,Self Owned,,15000000.0
+2377,,,Bike and Car,Self Owned,,2800000.0
+2378,,,Bike and Car,Self Owned,,8200000.0
+2379,,,Car,Self Owned,,16500000.0
+2380,,,Bike and Car,Self Owned,,3900000.0
+2381,,,Bike and Car,Self Owned,,7000000.0
+2382,,,Bike and Car,Self Owned,,7000000.0
+2383,,,Bike and Car,Self Owned,,13500000.0
+2384,,,Bike and Car,Self Owned,,26000000.0
+2385,,,,Self Owned,,11000000.0
+2386,,,,Self Owned,,4800000.0
+2387,,,Bike and Car,Self Owned,,26000000.0
+2388,,,Bike,Self Owned,,15000000.0
+2389,,,Bike,Self Owned,,3700000.0
+2390,,,Bike,Self Owned,,2200000.0
+2391,,,,Self Owned,,3500000.0
+2392,,,Bike and Car,Self Owned,,4200000.0
+2393,,,,Self Owned,,2200000.0
+2394,,,,Self Owned,,8000000.0
+2395,,,,Self Owned,,3200000.0
+2396,,,Bike and Car,Self Owned,,5000000.0
+2397,,,Car,Self Owned,,1800000.0
+2398,,,Bike and Car,Self Owned,,1600000.0
+2399,,North,Car,Self Owned,,5400000.0
+2400,,,Bike and Car,Self Owned,,3500000.0
+2401,,,Bike and Car,Self Owned,,15000000.0
+2402,,,Bike and Car,Self Owned,,2800000.0
+2403,,,Bike and Car,Self Owned,,8200000.0
+2404,,,Car,Self Owned,,16500000.0
+2405,,,Bike and Car,Self Owned,,3900000.0
+2406,,,Bike and Car,Self Owned,,7000000.0
+2407,,,Bike and Car,Self Owned,,7000000.0
+2408,,,Bike and Car,Self Owned,,13500000.0
+2409,,,Bike and Car,Self Owned,,26000000.0
+2410,,,,Self Owned,,11000000.0
+2411,,,,Self Owned,,4800000.0
+2412,,,Bike and Car,Self Owned,,26000000.0
+2413,,,Bike,Self Owned,,15000000.0
+2414,,,Bike,Self Owned,,3700000.0
+2415,,,Bike,Self Owned,,2200000.0
+2416,,,,Self Owned,,3500000.0
+2417,,,Bike and Car,Self Owned,,4200000.0
+2418,,,,Self Owned,,2200000.0
+2419,,,,Self Owned,,8000000.0
+2420,,,,Self Owned,,3200000.0
+2421,,,Bike and Car,Self Owned,,5000000.0
+2422,,,Car,Self Owned,,1800000.0
+2423,,,Bike and Car,Self Owned,,1600000.0
+2424,,North,Car,Self Owned,,5400000.0
+2425,,,Bike and Car,Self Owned,,3500000.0
+2426,,,Bike and Car,Self Owned,,15000000.0
+2427,,,Bike and Car,Self Owned,,2800000.0
+2428,,,Bike and Car,Self Owned,,8200000.0
+2429,,,Car,Self Owned,,16500000.0
+2430,,,Bike and Car,Self Owned,,3900000.0
+2431,,,Bike and Car,Self Owned,,7000000.0
+2432,,,Bike and Car,Self Owned,,7000000.0
+2433,,,Bike and Car,Self Owned,,13500000.0
+2434,,,Bike and Car,Self Owned,,26000000.0
+2435,,,,Self Owned,,11000000.0
+2436,,,,Self Owned,,4800000.0
+2437,,,Bike and Car,Self Owned,,26000000.0
+2438,,,Bike,Self Owned,,15000000.0
+2439,,,Bike,Self Owned,,3700000.0
+2440,,,Bike,Self Owned,,2200000.0
+2441,,,,Self Owned,,3500000.0
+2442,,,Bike and Car,Self Owned,,4200000.0
+2443,,,,Self Owned,,2200000.0
+2444,,,,Self Owned,,8000000.0
+2445,,,,Self Owned,,3200000.0
+2446,,,Bike and Car,Self Owned,,5000000.0
+2447,,,Car,Self Owned,,1800000.0
+2448,,,Bike and Car,Self Owned,,1600000.0
+2449,,North,Car,Self Owned,,5400000.0
+2450,,,Bike and Car,Self Owned,,3500000.0
+2451,,,Bike and Car,Self Owned,,15000000.0
+2452,,,Bike and Car,Self Owned,,2800000.0
+2453,,,Bike and Car,Self Owned,,8200000.0
+2454,,,Car,Self Owned,,16500000.0
+2455,,,Bike and Car,Self Owned,,3900000.0
+2456,,,Bike and Car,Self Owned,,7000000.0
+2457,,,Bike and Car,Self Owned,,7000000.0
+2458,,,Bike and Car,Self Owned,,13500000.0
+2459,,,Bike and Car,Self Owned,,26000000.0
+2460,,,,Self Owned,,11000000.0
+2461,Semi,northeast,Car,Self Owned,,3200000.0
+2462,Semi,northeast,Car,Self Owned,,3200000.0
+2463,Semi,northeast,Car,Self Owned,,19500000.0
+2464,,,Bike and Car,On Lease 99 Years,,7800000.0
+2465,Semi,northeast,Car,Self Owned,,3500000.0
+2466,,,Bike and Car,Self Owned,,3500000.0
+2467,,,Bike and Car,Self Owned,,5398000.0
+2468,Semi,South,Bike and Car,Self Owned,,4500000.0
+2469,Semi,East,Car,Self Owned,,9500000.0
+2470,Semi,northeast,Car,Self Owned,,7283000.0
+2471,Semi,northeast,Car,Self Owned,,2850000.0
+2472,,,Bike and Car,Self Owned,,3650000.0
+2473,,,Bike and Car,Self Owned,,5375000.0
+2474,,,Car,Self Owned,,16500000.0
+2475,,,Bike and Car,Self Owned,,7283000.0
+2476,,,Bike and Car,Self Owned,,5389000.0
+2477,Fully Furnished,northeast,Bike and Car,Self Owned,,16500000.0
+2478,Semi,northeast,Bike and Car,Self Owned,,3150000.0
+2479,,,Car,Self Owned,,2500000.0
+2480,,,Bike and Car,Self Owned,,4000000.0
+2481,,East,Bike and Car,Self Owned,,15600000.0
+2482,,,Bike and Car,Self Owned,,4500000.0
+2483,,,Car,Self Owned,,8500000.0
+2484,Semi,northeast,Bike and Car,Self Owned,,2700000.0
+2485,,,Car,Self Owned,,16500000.0
+2486,Semi,northeast,Car,Self Owned,,3200000.0
+2487,Semi,northeast,Car,Self Owned,,3200000.0
+2488,Semi,northeast,Car,Self Owned,,19500000.0
+2489,,,Bike and Car,On Lease 99 Years,,7800000.0
+2490,Semi,northeast,Car,Self Owned,,3500000.0
+2491,,,Bike and Car,Self Owned,,3500000.0
+2492,,,Bike and Car,Self Owned,,5398000.0
+2493,Semi,South,Bike and Car,Self Owned,,4500000.0
+2494,Semi,East,Car,Self Owned,,9500000.0
+2495,Semi,northeast,Car,Self Owned,,7283000.0
+2496,Semi,northeast,Car,Self Owned,,2850000.0
+2497,,,Bike and Car,Self Owned,,3650000.0
+2498,,,Bike and Car,Self Owned,,5375000.0
+2499,,,Car,Self Owned,,16500000.0
+2500,,,Bike and Car,Self Owned,,7283000.0
+2501,,,Bike and Car,Self Owned,,5389000.0
+2502,Fully Furnished,northeast,Bike and Car,Self Owned,,16500000.0
+2503,Semi,northeast,Bike and Car,Self Owned,,3150000.0
+2504,,,Car,Self Owned,,2500000.0
+2505,,,Bike and Car,Self Owned,,4000000.0
+2506,,East,Bike and Car,Self Owned,,15600000.0
+2507,,,Bike and Car,Self Owned,,4500000.0
+2508,,,Car,Self Owned,,8500000.0
+2509,Semi,northeast,Bike and Car,Self Owned,,2700000.0
+2510,,,Car,Self Owned,,16500000.0
+2511,Semi,northeast,Car,Self Owned,,3200000.0
+2512,Semi,northeast,Car,Self Owned,,3200000.0
+2513,Semi,northeast,Car,Self Owned,,19500000.0
+2514,,,Bike and Car,On Lease 99 Years,,7800000.0
+2515,Semi,northeast,Car,Self Owned,,3500000.0
+2516,,,Bike and Car,Self Owned,,3500000.0
+2517,,,Bike and Car,Self Owned,,5398000.0
+2518,Semi,South,Bike and Car,Self Owned,,4500000.0
+2519,Semi,East,Car,Self Owned,,9500000.0
+2520,Semi,northeast,Car,Self Owned,,7283000.0
+2521,Semi,northeast,Car,Self Owned,,2850000.0
+2522,,,Bike and Car,Self Owned,,3650000.0
+2523,,,Bike and Car,Self Owned,,5375000.0
+2524,,,Car,Self Owned,,16500000.0
+2525,,,Bike and Car,Self Owned,,7283000.0
+2526,,,Bike and Car,Self Owned,,5389000.0
+2527,Fully Furnished,northeast,Bike and Car,Self Owned,,16500000.0
+2528,Semi,northeast,Bike and Car,Self Owned,,3150000.0
+2529,,,Car,Self Owned,,2500000.0
+2530,,,Bike and Car,Self Owned,,4000000.0
+2531,,East,Bike and Car,Self Owned,,15600000.0
+2532,,,Bike and Car,Self Owned,,4500000.0
+2533,,,Car,Self Owned,,8500000.0
+2534,Semi,northeast,Bike and Car,Self Owned,,2700000.0
+2535,,,Car,Self Owned,,16500000.0
+2536,Semi,northeast,Car,Self Owned,,3200000.0
+2537,Semi,northeast,Car,Self Owned,,3200000.0
+2538,Semi,northeast,Car,Self Owned,,19500000.0
+2539,,,Bike and Car,On Lease 99 Years,,7800000.0
+2540,Semi,northeast,Car,Self Owned,,3500000.0
+2541,,,Bike and Car,Self Owned,,3500000.0
+2542,,,Bike and Car,Self Owned,,5398000.0
+2543,Semi,South,Bike and Car,Self Owned,,4500000.0
+2544,Semi,East,Car,Self Owned,,9500000.0
+2545,Semi,northeast,Car,Self Owned,,7283000.0
+2546,Semi,northeast,Car,Self Owned,,2850000.0
+2547,,,Bike and Car,Self Owned,,3650000.0
+2548,,,Bike and Car,Self Owned,,5375000.0
+2549,,,Car,Self Owned,,16500000.0
+2550,,,Bike and Car,Self Owned,,7283000.0
+2551,,,Bike and Car,Self Owned,,5389000.0
+2552,Fully Furnished,northeast,Bike and Car,Self Owned,,16500000.0
+2553,Semi,northeast,Bike and Car,Self Owned,,3150000.0
+2554,,,Car,Self Owned,,2500000.0
+2555,,,Bike and Car,Self Owned,,4000000.0
+2556,,East,Bike and Car,Self Owned,,15600000.0
+2557,,,Bike and Car,Self Owned,,4500000.0
+2558,,,Car,Self Owned,,8500000.0
+2559,Semi,northeast,Bike and Car,Self Owned,,2700000.0
+2560,,,Car,Self Owned,,16500000.0
+2561,Semi,northeast,Car,Self Owned,,3200000.0
+2562,Semi,northeast,Car,Self Owned,,3200000.0
+2563,Semi,northeast,Car,Self Owned,,19500000.0
+2564,,,Bike and Car,On Lease 99 Years,,7800000.0
+2565,Semi,northeast,Car,Self Owned,,3500000.0
+2566,,,Bike and Car,Self Owned,,3500000.0
+2567,,,Bike and Car,Self Owned,,5398000.0
+2568,Semi,South,Bike and Car,Self Owned,,4500000.0
+2569,Semi,East,Car,Self Owned,,9500000.0
+2570,Semi,northeast,Car,Self Owned,,7283000.0
+2571,Semi,northeast,Car,Self Owned,,2850000.0
+2572,,,Bike and Car,Self Owned,,3650000.0
+2573,,,Bike and Car,Self Owned,,5375000.0
+2574,,,Car,Self Owned,,16500000.0
+2575,,,Bike and Car,Self Owned,,7283000.0
+2576,,,Bike and Car,Self Owned,,5389000.0
+2577,Fully Furnished,northeast,Bike and Car,Self Owned,,16500000.0
+2578,Semi,northeast,Bike and Car,Self Owned,,3150000.0
+2579,,,Car,Self Owned,,2500000.0
+2580,,,Bike and Car,Self Owned,,4000000.0
+2581,,East,Bike and Car,Self Owned,,15600000.0
+2582,,,Bike and Car,Self Owned,,4500000.0
+2583,,,Car,Self Owned,,8500000.0
+2584,Semi,northeast,Bike and Car,Self Owned,,2700000.0
+2585,,,Car,Self Owned,,16500000.0
+2586,Semi,northeast,Car,Self Owned,,3200000.0
+2587,Semi,northeast,Car,Self Owned,,3200000.0
+2588,Semi,northeast,Car,Self Owned,,19500000.0
+2589,,,Bike and Car,On Lease 99 Years,,7800000.0
+2590,Semi,northeast,Car,Self Owned,,3500000.0
+2591,,,Bike and Car,Self Owned,,3500000.0
+2592,,,Bike and Car,Self Owned,,5398000.0
+2593,Semi,South,Bike and Car,Self Owned,,4500000.0
+2594,Semi,East,Car,Self Owned,,9500000.0
+2595,Semi,northeast,Car,Self Owned,,7283000.0
+2596,Semi,northeast,Car,Self Owned,,2850000.0
+2597,,,Bike and Car,Self Owned,,3650000.0
+2598,,,Bike and Car,Self Owned,,5375000.0
+2599,,,Car,Self Owned,,16500000.0
+2600,,,Bike and Car,Self Owned,,7283000.0
+2601,,,Bike and Car,Self Owned,,5389000.0
+2602,Fully Furnished,northeast,Bike and Car,Self Owned,,16500000.0
+2603,Semi,northeast,Bike and Car,Self Owned,,3150000.0
+2604,,,Car,Self Owned,,2500000.0
+2605,,,Bike and Car,Self Owned,,4000000.0
+2606,,East,Bike and Car,Self Owned,,15600000.0
+2607,,,Bike and Car,Self Owned,,4500000.0
+2608,,,Car,Self Owned,,8500000.0
+2609,Semi,northeast,Bike and Car,Self Owned,,2700000.0
+2610,,,Car,Self Owned,,16500000.0
+2611,Semi,northeast,Car,Self Owned,,3200000.0
+2612,Semi,northeast,Car,Self Owned,,3200000.0
+2613,Semi,northeast,Car,Self Owned,,19500000.0
+2614,,,Bike and Car,On Lease 99 Years,,7800000.0
+2615,Semi,northeast,Car,Self Owned,,3500000.0
+2616,,,Bike and Car,Self Owned,,3500000.0
+2617,,,Bike and Car,Self Owned,,5398000.0
+2618,Semi,South,Bike and Car,Self Owned,,4500000.0
+2619,Semi,East,Car,Self Owned,,9500000.0
+2620,Semi,northeast,Car,Self Owned,,7283000.0
+2621,Semi,northeast,Car,Self Owned,,2850000.0
+2622,,,Bike and Car,Self Owned,,3650000.0
+2623,,,Bike and Car,Self Owned,,5375000.0
+2624,,,Car,Self Owned,,16500000.0
+2625,,,Bike and Car,Self Owned,,7283000.0
+2626,,,Bike and Car,Self Owned,,5389000.0
+2627,Fully Furnished,northeast,Bike and Car,Self Owned,,16500000.0
+2628,Semi,northeast,Bike and Car,Self Owned,,3150000.0
+2629,,,Car,Self Owned,,2500000.0
+2630,,,Bike and Car,Self Owned,,4000000.0
+2631,,East,Bike and Car,Self Owned,,15600000.0
+2632,,,Bike and Car,Self Owned,,4500000.0
+2633,,,Car,Self Owned,,8500000.0
+2634,Semi,northeast,Bike and Car,Self Owned,,2700000.0
+2635,,,Car,Self Owned,,16500000.0
+2636,Semi,northeast,Car,Self Owned,,3200000.0
+2637,Semi,northeast,Car,Self Owned,,3200000.0
+2638,Semi,northeast,Car,Self Owned,,19500000.0
+2639,,,Bike and Car,On Lease 99 Years,,7800000.0
+2640,Semi,northeast,Car,Self Owned,,3500000.0
+2641,,,Bike and Car,Self Owned,,3500000.0
+2642,,,Bike and Car,Self Owned,,5398000.0
+2643,Semi,South,Bike and Car,Self Owned,,4500000.0
+2644,Semi,East,Car,Self Owned,,9500000.0
+2645,Semi,northeast,Car,Self Owned,,7283000.0
+2646,Semi,northeast,Car,Self Owned,,2850000.0
+2647,,,Bike and Car,Self Owned,,3650000.0
+2648,,,Bike and Car,Self Owned,,5375000.0
+2649,,,Car,Self Owned,,16500000.0
+2650,,,Bike and Car,Self Owned,,7283000.0
+2651,,,Bike and Car,Self Owned,,5389000.0
+2652,Fully Furnished,northeast,Bike and Car,Self Owned,,16500000.0
+2653,Semi,northeast,Bike and Car,Self Owned,,3150000.0
+2654,,,Car,Self Owned,,2500000.0
+2655,,,Bike and Car,Self Owned,,4000000.0
+2656,,East,Bike and Car,Self Owned,,15600000.0
+2657,,,Bike and Car,Self Owned,,4500000.0
+2658,,,Car,Self Owned,,8500000.0
+2659,Semi,northeast,Bike and Car,Self Owned,,2700000.0
+2660,,,Car,Self Owned,,16500000.0
+2661,Semi,northeast,Car,Self Owned,,3200000.0
+2662,Semi,northeast,Car,Self Owned,,3200000.0
+2663,Semi,northeast,Car,Self Owned,,19500000.0
+2664,,,Bike and Car,On Lease 99 Years,,7800000.0
+2665,Semi,northeast,Car,Self Owned,,3500000.0
+2666,,,Bike and Car,Self Owned,,3500000.0
+2667,,,Bike and Car,Self Owned,,5398000.0
+2668,Semi,South,Bike and Car,Self Owned,,4500000.0
+2669,Semi,East,Car,Self Owned,,9500000.0
+2670,Semi,northeast,Car,Self Owned,,7283000.0
+2671,Semi,northeast,Car,Self Owned,,2850000.0
+2672,,,Bike and Car,Self Owned,,3650000.0
+2673,,,Bike and Car,Self Owned,,5375000.0
+2674,,,Car,Self Owned,,16500000.0
+2675,,,Bike and Car,Self Owned,,7283000.0
+2676,,,Bike and Car,Self Owned,,5389000.0
+2677,Fully Furnished,northeast,Bike and Car,Self Owned,,16500000.0
+2678,Semi,northeast,Bike and Car,Self Owned,,3150000.0
+2679,,,Car,Self Owned,,2500000.0
+2680,,,Bike and Car,Self Owned,,4000000.0
+2681,,East,Bike and Car,Self Owned,,15600000.0
+2682,,,Bike and Car,Self Owned,,4500000.0
+2683,,,Car,Self Owned,,8500000.0
+2684,Semi,northeast,Bike and Car,Self Owned,,2700000.0
+2685,,,Car,Self Owned,,16500000.0
+2686,Semi,northeast,Car,Self Owned,,3200000.0
+2687,Semi,northeast,Car,Self Owned,,3200000.0
+2688,Semi,northeast,Car,Self Owned,,19500000.0
+2689,,,Bike and Car,On Lease 99 Years,,7800000.0
+2690,Semi,northeast,Car,Self Owned,,3500000.0
+2691,,,Bike and Car,Self Owned,,3500000.0
+2692,,,Bike and Car,Self Owned,,5398000.0
+2693,Semi,South,Bike and Car,Self Owned,,4500000.0
+2694,Semi,East,Car,Self Owned,,9500000.0
+2695,Semi,northeast,Car,Self Owned,,7283000.0
+2696,Semi,northeast,Car,Self Owned,,2850000.0
+2697,,,Bike and Car,Self Owned,,3650000.0
+2698,,,Bike and Car,Self Owned,,5375000.0
+2699,,,Car,Self Owned,,16500000.0
+2700,,,Bike and Car,Self Owned,,7283000.0
+2701,,,Bike and Car,Self Owned,,5389000.0
+2702,Fully Furnished,northeast,Bike and Car,Self Owned,,16500000.0
+2703,Semi,northeast,Bike and Car,Self Owned,,3150000.0
+2704,,,Car,Self Owned,,2500000.0
+2705,,,Bike and Car,Self Owned,,4000000.0
+2706,,East,Bike and Car,Self Owned,,15600000.0
+2707,,,Bike and Car,Self Owned,,4500000.0
+2708,,,Car,Self Owned,,8500000.0
+2709,Semi,northeast,Bike and Car,Self Owned,,2700000.0
+2710,,,Car,Self Owned,,16500000.0
+2711,Semi,northeast,Car,Self Owned,,3200000.0
+2712,Semi,northeast,Car,Self Owned,,3200000.0
+2713,Semi,northeast,Car,Self Owned,,19500000.0
+2714,,,Bike and Car,On Lease 99 Years,,7800000.0
+2715,Semi,northeast,Car,Self Owned,,3500000.0
+2716,,,Bike and Car,Self Owned,,3500000.0
+2717,,,Bike and Car,Self Owned,,5398000.0
+2718,Semi,South,Bike and Car,Self Owned,,4500000.0
+2719,Semi,East,Car,Self Owned,,9500000.0
+2720,Semi,northeast,Car,Self Owned,,7283000.0
+2721,Semi,northeast,Car,Self Owned,,2850000.0
+2722,,,Bike and Car,Self Owned,,3650000.0
+2723,,,Bike and Car,Self Owned,,5375000.0
+2724,,,Car,Self Owned,,16500000.0
+2725,,,Bike and Car,Self Owned,,7283000.0
+2726,,,Bike and Car,Self Owned,,5389000.0
+2727,Fully Furnished,northeast,Bike and Car,Self Owned,,16500000.0
+2728,Semi,northeast,Bike and Car,Self Owned,,3150000.0
+2729,,,Car,Self Owned,,2500000.0
+2730,,,Bike and Car,Self Owned,,4000000.0
+2731,,East,Bike and Car,Self Owned,,15600000.0
+2732,,,Bike and Car,Self Owned,,4500000.0
+2733,,,Car,Self Owned,,8500000.0
+2734,Semi,northeast,Bike and Car,Self Owned,,2700000.0
+2735,,,Car,Self Owned,,16500000.0
+2736,Semi,northeast,Car,Self Owned,,3200000.0
+2737,Semi,northeast,Car,Self Owned,,3200000.0
+2738,Semi,northeast,Car,Self Owned,,19500000.0
+2739,,,Bike and Car,On Lease 99 Years,,7800000.0
+2740,Semi,northeast,Car,Self Owned,,3500000.0
+2741,,,Bike and Car,Self Owned,,3500000.0
+2742,,,Bike and Car,Self Owned,,5398000.0
+2743,Semi,South,Bike and Car,Self Owned,,4500000.0
+2744,Semi,East,Car,Self Owned,,9500000.0
+2745,Semi,northeast,Car,Self Owned,,7283000.0
+2746,Semi,northeast,Car,Self Owned,,2850000.0
+2747,,,Bike and Car,Self Owned,,3650000.0
+2748,,,Bike and Car,Self Owned,,5375000.0
+2749,,,Car,Self Owned,,16500000.0
+2750,,,Bike and Car,Self Owned,,7283000.0
+2751,,,Bike and Car,Self Owned,,5389000.0
+2752,Fully Furnished,northeast,Bike and Car,Self Owned,,16500000.0
+2753,Semi,northeast,Bike and Car,Self Owned,,3150000.0
+2754,,,Car,Self Owned,,2500000.0
+2755,,,Bike and Car,Self Owned,,4000000.0
+2756,,East,Bike and Car,Self Owned,,15600000.0
+2757,,,Bike and Car,Self Owned,,4500000.0
+2758,,,Car,Self Owned,,8500000.0
+2759,Semi,northeast,Bike and Car,Self Owned,,2700000.0
+2760,,,Car,Self Owned,,16500000.0
+2761,Semi,northeast,Car,Self Owned,,3200000.0
+2762,Semi,northeast,Car,Self Owned,,3200000.0
+2763,Semi,northeast,Car,Self Owned,,19500000.0
+2764,,,Bike and Car,On Lease 99 Years,,7800000.0
+2765,Semi,northeast,Car,Self Owned,,3500000.0
+2766,,,Bike and Car,Self Owned,,3500000.0
+2767,,,Bike and Car,Self Owned,,5398000.0
+2768,Semi,South,Bike and Car,Self Owned,,4500000.0
+2769,Semi,East,Car,Self Owned,,9500000.0
+2770,Semi,northeast,Car,Self Owned,,7283000.0
+2771,Semi,northeast,Car,Self Owned,,2850000.0
+2772,,,Bike and Car,Self Owned,,3650000.0
+2773,,,Bike and Car,Self Owned,,5375000.0
+2774,,,Car,Self Owned,,16500000.0
+2775,,,Bike and Car,Self Owned,,7283000.0
+2776,,,Bike and Car,Self Owned,,5389000.0
+2777,Fully Furnished,northeast,Bike and Car,Self Owned,,16500000.0
+2778,Semi,northeast,Bike and Car,Self Owned,,3150000.0
+2779,,,Car,Self Owned,,2500000.0
+2780,,,Bike and Car,Self Owned,,4000000.0
+2781,,East,Bike and Car,Self Owned,,15600000.0
+2782,,,Bike and Car,Self Owned,,4500000.0
+2783,,,Car,Self Owned,,8500000.0
+2784,Semi,northeast,Bike and Car,Self Owned,,2700000.0
+2785,,,Car,Self Owned,,16500000.0
+2786,Semi,northeast,Car,Self Owned,,3200000.0
+2787,Semi,northeast,Car,Self Owned,,3200000.0
+2788,Semi,northeast,Car,Self Owned,,19500000.0
+2789,,,Bike and Car,On Lease 99 Years,,7800000.0
+2790,Semi,northeast,Car,Self Owned,,3500000.0
+2791,,,Bike and Car,Self Owned,,3500000.0
+2792,,,Bike and Car,Self Owned,,5398000.0
+2793,Semi,South,Bike and Car,Self Owned,,4500000.0
+2794,Semi,East,Car,Self Owned,,9500000.0
+2795,Semi,northeast,Car,Self Owned,,7283000.0
+2796,Semi,northeast,Car,Self Owned,,2850000.0
+2797,,,Bike and Car,Self Owned,,3650000.0
+2798,,,Bike and Car,Self Owned,,5375000.0
+2799,,,Car,Self Owned,,16500000.0
+2800,,,Bike and Car,Self Owned,,7283000.0
+2801,,,Bike and Car,Self Owned,,5389000.0
+2802,Fully Furnished,northeast,Bike and Car,Self Owned,,16500000.0
+2803,Semi,northeast,Bike and Car,Self Owned,,3150000.0
+2804,,,Car,Self Owned,,2500000.0
+2805,,,Bike and Car,Self Owned,,4000000.0
+2806,,East,Bike and Car,Self Owned,,15600000.0
+2807,,,Bike and Car,Self Owned,,4500000.0
+2808,,,Car,Self Owned,,8500000.0
+2809,Semi,northeast,Bike and Car,Self Owned,,2700000.0
+2810,,,Car,Self Owned,,16500000.0
+2811,Semi,northeast,Car,Self Owned,,3200000.0
+2812,Semi,northeast,Car,Self Owned,,3200000.0
+2813,Semi,northeast,Car,Self Owned,,19500000.0
+2814,,,Bike and Car,On Lease 99 Years,,7800000.0
+2815,Semi,northeast,Car,Self Owned,,3500000.0
+2816,,,Bike and Car,Self Owned,,3500000.0
+2817,,,Bike and Car,Self Owned,,5398000.0
+2818,Semi,South,Bike and Car,Self Owned,,4500000.0
+2819,Semi,East,Car,Self Owned,,9500000.0
+2820,Semi,northeast,Car,Self Owned,,7283000.0
+2821,Semi,northeast,Car,Self Owned,,2850000.0
+2822,,,Bike and Car,Self Owned,,3650000.0
+2823,,,Bike and Car,Self Owned,,5375000.0
+2824,,,Car,Self Owned,,16500000.0
+2825,,,Bike and Car,Self Owned,,7283000.0
+2826,,,Bike and Car,Self Owned,,5389000.0
+2827,Fully Furnished,northeast,Bike and Car,Self Owned,,16500000.0
+2828,Semi,northeast,Bike and Car,Self Owned,,3150000.0
+2829,,,Car,Self Owned,,2500000.0
+2830,,,Bike and Car,Self Owned,,4000000.0
+2831,,East,Bike and Car,Self Owned,,15600000.0
+2832,,,Bike and Car,Self Owned,,4500000.0
+2833,,,Car,Self Owned,,8500000.0
+2834,Semi,northeast,Bike and Car,Self Owned,,2700000.0
+2835,,,Car,Self Owned,,16500000.0
+2836,Semi,northeast,Car,Self Owned,,3200000.0
+2837,Semi,northeast,Car,Self Owned,,3200000.0
+2838,Semi,northeast,Car,Self Owned,,19500000.0
+2839,,,Bike and Car,On Lease 99 Years,,7800000.0
+2840,Semi,northeast,Car,Self Owned,,3500000.0
+2841,,,Bike and Car,Self Owned,,3500000.0
+2842,,,Bike and Car,Self Owned,,5398000.0
+2843,Semi,South,Bike and Car,Self Owned,,4500000.0
+2844,Semi,East,Car,Self Owned,,9500000.0
+2845,Semi,northeast,Car,Self Owned,,7283000.0
+2846,Semi,northeast,Car,Self Owned,,2850000.0
+2847,,,Bike and Car,Self Owned,,3650000.0
+2848,,,Bike and Car,Self Owned,,5375000.0
+2849,,,Car,Self Owned,,16500000.0
+2850,,,Bike and Car,Self Owned,,7283000.0
+2851,,,Bike and Car,Self Owned,,5389000.0
+2852,Fully Furnished,northeast,Bike and Car,Self Owned,,16500000.0
+2853,Semi,northeast,Bike and Car,Self Owned,,3150000.0
+2854,,,Car,Self Owned,,2500000.0
+2855,,,Bike and Car,Self Owned,,4000000.0
+2856,,East,Bike and Car,Self Owned,,15600000.0
+2857,,,Bike and Car,Self Owned,,4500000.0
+2858,,,Car,Self Owned,,8500000.0
+2859,Semi,northeast,Bike and Car,Self Owned,,2700000.0
+2860,,,Car,Self Owned,,16500000.0
+2861,Semi,northeast,Car,Self Owned,,3200000.0
+2862,Semi,northeast,Car,Self Owned,,3200000.0
+2863,Semi,northeast,Car,Self Owned,,19500000.0
+2864,,,Bike and Car,On Lease 99 Years,,7800000.0
+2865,Semi,northeast,Car,Self Owned,,3500000.0
+2866,,,Bike and Car,Self Owned,,3500000.0
+2867,,,Bike and Car,Self Owned,,5398000.0
+2868,Semi,South,Bike and Car,Self Owned,,4500000.0
+2869,Semi,East,Car,Self Owned,,9500000.0
+2870,Semi,northeast,Car,Self Owned,,7283000.0
+2871,Semi,northeast,Car,Self Owned,,2850000.0
+2872,,,Bike and Car,Self Owned,,3650000.0
+2873,,,Bike and Car,Self Owned,,5375000.0
+2874,,,Car,Self Owned,,16500000.0
+2875,,,Bike and Car,Self Owned,,7283000.0
+2876,,,Bike and Car,Self Owned,,5389000.0
+2877,Fully Furnished,northeast,Bike and Car,Self Owned,,16500000.0
+2878,Semi,northeast,Bike and Car,Self Owned,,3150000.0
+2879,,,Car,Self Owned,,2500000.0
+2880,,,Bike and Car,Self Owned,,4000000.0
+2881,,East,Bike and Car,Self Owned,,15600000.0
+2882,,,Bike and Car,Self Owned,,4500000.0
+2883,,,Car,Self Owned,,8500000.0
+2884,Semi,northeast,Bike and Car,Self Owned,,2700000.0
+2885,,,Car,Self Owned,,16500000.0
+2886,,,,,,33239688.0
+2887,,,,,,73561200.0
+2888,,,,,,35326000.0
+2889,,,,,,33248000.0
+2890,,,,,,51950000.0
+2891,,,,,,13964160.0
+2892,,,,,,40313200.0
+2893,,,,,,46962800.0
+2894,,,,,,40645680.0
+2895,,,,,,27346480.0
+2896,,,,,,33239688.0
+2897,,,,,,73561200.0
+2898,,,,,,35326000.0
+2899,,,,,,33248000.0
+2900,,,,,,51950000.0
+2901,,,,,,13964160.0
+2902,,,,,,40313200.0
+2903,,,,,,46962800.0
+2904,,,,,,40645680.0
+2905,,,,,,27346480.0
+2906,,,,,,33239688.0
+2907,,,,,,73561200.0
+2908,,,,,,35326000.0
+2909,,,,,,33248000.0
+2910,,,,,,51950000.0
+2911,,,,,,13964160.0
+2912,,,,,,40313200.0
+2913,,,,,,46962800.0
+2914,,,,,,40645680.0
+2915,,,,,,27346480.0
+2916,,,,,,33239688.0
+2917,,,,,,73561200.0
+2918,,,,,,35326000.0
+2919,,,,,,33248000.0
+2920,,,,,,51950000.0
+2921,,,,,,13964160.0
+2922,,,,,,40313200.0
+2923,,,,,,46962800.0
+2924,,,,,,40645680.0
+2925,,,,,,27346480.0
+2926,,,,,,33239688.0
+2927,,,,,,73561200.0
+2928,,,,,,35326000.0
+2929,,,,,,33248000.0
+2930,,,,,,51950000.0
+2931,,,,,,13964160.0
+2932,,,,,,40313200.0
+2933,,,,,,46962800.0
+2934,,,,,,40645680.0
+2935,,,,,,27346480.0
+2936,,,,,,33239688.0
+2937,,,,,,73561200.0
+2938,,,,,,35326000.0
+2939,,,,,,33248000.0
+2940,,,,,,51950000.0
+2941,,,,,,13964160.0
+2942,,,,,,40313200.0
+2943,,,,,,46962800.0
+2944,,,,,,40645680.0
+2945,,,,,,27346480.0
+2946,,,,,,35321844.0
+2947,,,,,,36572800.0
+2948,,,,,,29507600.0
+2949,,,,,,86860400.0
+2950,,,,,,19533200.0
+2951,,,,,,17039600.0
+2952,,,,,,21187288.0
+2953,,,,,,56106000.0
+2954,,,,,,24936000.0
+2955,,,,,,23689200.0
+2956,,,,,,33239688.0
+2957,,,,,,73561200.0
+2958,,,,,,35326000.0
+2959,,,,,,33248000.0
+2960,,,,,,51950000.0
+2961,,,,,,13964160.0
+2962,,,,,,40313200.0
+2963,,,,,,46962800.0
+2964,,,,,,40645680.0
+2965,,,,,,27346480.0
+2966,,,,,,35321844.0
+2967,,,,,,36572800.0
+2968,,,,,,29507600.0
+2969,,,,,,86860400.0
+2970,,,,,,19533200.0
+2971,,,,,,17039600.0
+2972,,,,,,21187288.0
+2973,,,,,,56106000.0
+2974,,,,,,24936000.0
+2975,,,,,,23689200.0
+2976,,,,,,33239688.0
+2977,,,,,,73561200.0
+2978,,,,,,35326000.0
+2979,,,,,,33248000.0
+2980,,,,,,51950000.0
+2981,,,,,,13964160.0
+2982,,,,,,40313200.0
+2983,,,,,,46962800.0
+2984,,,,,,40645680.0
+2985,,,,,,27346480.0
+2986,,,,,,35321844.0
+2987,,,,,,36572800.0
+2988,,,,,,29507600.0
+2989,,,,,,86860400.0
+2990,,,,,,19533200.0
+2991,,,,,,17039600.0
+2992,,,,,,21187288.0
+2993,,,,,,56106000.0
+2994,,,,,,24936000.0
+2995,,,,,,23689200.0
